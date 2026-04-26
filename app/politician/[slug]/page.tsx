@@ -347,7 +347,7 @@ export default async function PoliticianProfilePage({ params }: Props) {
             </p>
             <div className="flex justify-center gap-3 flex-wrap">
               <a
-                href={`https://twitter.com/intent/tweet?text=Check out ${politician.name}'s complete political journey on NetaProfile — ${politician.stats.total_party_switches} party switch(es) in ${politician.stats.years_in_politics} years&url=${encodeURIComponent(`https://netaprofile.in/politician/${politician.slug}`)}`}
+                href={`https://twitter.com/intent/tweet?text=Check out ${politician.name}'s complete political journey on NetaProfile — ${politician.stats.total_party_switches} party switch(es) in ${politician.stats.years_in_politics} years&url=${encodeURIComponent(`https://netaprofile.vercel.app/politician/${politician.slug}`)}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 bg-blue-500 hover:bg-blue-600 text-white text-sm font-medium px-4 py-2 rounded-lg transition-colors"
@@ -355,7 +355,7 @@ export default async function PoliticianProfilePage({ params }: Props) {
                 Share on 𝕏
               </a>
               <a
-                href={`https://wa.me/?text=Check out ${politician.name}'s complete political journey — https://netaprofile.in/politician/${politician.slug}`}
+                href={`https://wa.me/?text=Check out ${politician.name}'s complete political journey — https://netaprofile.vercel.app/politician/${politician.slug}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 bg-green-600 hover:bg-green-700 text-white text-sm font-medium px-4 py-2 rounded-lg transition-colors"
