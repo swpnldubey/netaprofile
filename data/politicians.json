@@ -232,7 +232,7 @@
       "slug": "sandeep-pathak",
       "name": "Sandeep Pathak",
       "name_hindi": "संदीप पाठक",
-      "photo_url": "",
+      "photo_url": "/images/politicians/sandeep-pathak.png",
       "date_of_birth": "1979-10-04",
       "age": 46,
       "current_info": {
@@ -271,7 +271,43 @@
           "notes": "Defected with Raghav Chadha and 5 other AAP MPs on April 24, 2026."
         }
       ],
-      "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+      "statements": {
+        "has_contradictions": true,
+        "before_switch": [
+          {
+            "quote": "We will go after the BJP everywhere.",
+            "date": "2023-04-01",
+            "source_title": "AAP's Sandeep Pathak: 'We will go after the BJP everywhere'",
+            "source_url": "https://www.theweek.in/theweek/current/2023/04/01/aap-national-general-secretary-sandeep-pathak-interview.html",
+            "video_url": "",
+            "context": "Interview with The Week as AAP National General Secretary (Organisation). Pathak was the party's chief election strategist, overseeing AAP's expansion nationally.",
+            "category": "criticism",
+            "confidence": "high"
+          },
+          {
+            "quote": "Most people believe the BJP is not doing the right thing. By doing this, the BJP is helping AAP's political prospects. The BJP devised a plan to trap us in corruption allegations.",
+            "date": "2023-04-01",
+            "source_title": "AAP's Sandeep Pathak: 'We will go after the BJP everywhere'",
+            "source_url": "https://www.theweek.in/theweek/current/2023/04/01/aap-national-general-secretary-sandeep-pathak-interview.html",
+            "video_url": "",
+            "context": "Same interview — Pathak arguing that BJP's attacks on AAP via corruption cases were politically motivated and backfiring.",
+            "category": "criticism",
+            "confidence": "high"
+          }
+        ],
+        "after_switch": [
+          {
+            "quote": "For 10 years, I remained associated with this party. And today, I am parting ways with the Aam Aadmi Party. I am giving up all my positions in AAP.",
+            "date": "2026-04-24",
+            "source_title": "Giving up all my positions in AAP: Rajya Sabha MP Sandeep Pathak announces decision to join BJP",
+            "source_url": "https://aninews.in/news/national/politics/giving-up-all-my-positions-in-aap-rajya-sabha-mp-sandeep-pathak-announces-decision-to-join-bjp20260424181932/",
+            "video_url": "",
+            "context": "Press conference on April 24, 2026 announcing his exit from AAP and merger with BJP. Pathak was AAP's National General Secretary — its most senior organizational figure outside Kejriwal.",
+            "category": "general",
+            "confidence": "high"
+          }
+        ]
+      },
       "education": {
         "has_data": true,
         "institutions": [
@@ -296,16 +332,16 @@
           { "title": "Big blow to AAP: Raghav Chadha, 6 Rajya Sabha MPs merge with BJP. Who are they?", "url": "https://www.india.com/news/india/raghav-chadha-ashok-mittal-sandeep-pathak-harbhajan-singh-rajinder-gupta-vikram-sahney-swati-maliwal-rajya-sabha-mps-merge-with-bjp-aap-prime-minister-narendra-modi-amit-shah-8392306/", "date": "2026-04-24" }
         ]
       },
-      "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-26", "is_featured": false, "is_trending": true, "data_completeness": 45 }
+      "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-26", "is_featured": false, "is_trending": true, "data_completeness": 74 }
     },
     {
       "id": "swati-maliwal",
       "slug": "swati-maliwal",
       "name": "Swati Maliwal",
       "name_hindi": "स्वाति मालीवाल",
-      "photo_url": "",
-      "date_of_birth": "",
-      "age": 0,
+      "photo_url": "/images/politicians/swati-maliwal.png",
+      "date_of_birth": "1984-10-15",
+      "age": 41,
       "current_info": {
         "party": "BJP",
         "party_full_name": "Bharatiya Janata Party",
@@ -343,8 +379,19 @@
         }
       ],
       "statements": {
-        "has_contradictions": false,
-        "before_switch": [],
+        "has_contradictions": true,
+        "before_switch": [
+          {
+            "quote": "At his residence, on his signal, I was brutally beaten and treated with utmost indecency. When I tried to file an FIR, I was threatened and intimidated.",
+            "date": "2024-05-13",
+            "source_title": "Swati Maliwal assault case: Delhi court sends Bibhav Kumar to police custody",
+            "source_url": "https://www.indiatvnews.com/delhi/swati-maliwal-assault-case-live-updates-delhi-police-investigation-cm-arvind-kejriwal-pa-bibhav-kumar-atishi-aam-aadmi-party-sanjay-singh-2024-05-18-932029",
+            "video_url": "",
+            "context": "Maliwal alleged she was assaulted by Bibhav Kumar, Kejriwal's PA, at the CM residence on May 13, 2024. She filed an FIR and alleged intimidation when she tried to pursue the case — while still an AAP Rajya Sabha MP.",
+            "category": "criticism",
+            "confidence": "high"
+          }
+        ],
         "after_switch": [
           {
             "quote": "AAP is no longer the same party. No one can work with Kejriwal.",
@@ -355,11 +402,44 @@
             "context": "Statement after joining BJP on April 24-25, 2026.",
             "category": "general",
             "confidence": "high"
+          },
+          {
+            "quote": "I joined the BJP not under any compulsion, but because I believe in the leadership of PM Modi. I urge all those who want to do constructive politics to join the BJP.",
+            "date": "2026-04-24",
+            "source_title": "Kejriwal is corrupt and liar: Swati Maliwal",
+            "source_url": "https://www.prokerala.com/news/articles/a1755120.html",
+            "video_url": "",
+            "context": "Speaking to ANI after joining the BJP. Maliwal framed her switch as a positive choice for Modi's leadership rather than a rejection of AAP alone.",
+            "category": "general",
+            "confidence": "high"
+          },
+          {
+            "quote": "Kejriwal is anti-women, corrupt, and known for gundagardi. The AAP has completely changed — it is now known for lies, corruption and hooliganism.",
+            "date": "2026-04-25",
+            "source_title": "Anti-women, corrupt, gundagardi: Rajya Sabha MP Swati Maliwal slams Kejriwal",
+            "source_url": "https://www.aninews.in/news/national/politics/anti-women-corrupt-gundagardi-rajya-sabha-mp-swati-maliwal-slams-kejriwal20260425134109/",
+            "video_url": "",
+            "context": "Press statement to ANI on April 25, 2026, a day after formally joining BJP.",
+            "category": "criticism",
+            "confidence": "high"
           }
         ]
       },
-      "education": { "has_data": false, "institutions": [] },
-      "career_before_politics": { "has_data": false, "positions": [] },
+      "education": {
+        "has_data": true,
+        "institutions": [
+          { "name": "Amity International School", "degree": "Schooling", "location": "Delhi", "year_start": "", "year_end": "2002" },
+          { "name": "JSS Academy of Technical Education", "degree": "B.Tech — Information Technology", "location": "Noida, UP", "year_start": "2002", "year_end": "2006" }
+        ]
+      },
+      "career_before_politics": {
+        "has_data": true,
+        "positions": [
+          { "company": "Parivartan NGO", "role": "Social Activist", "year_start": "2006", "year_end": "2006" },
+          { "company": "Public Cause Research Foundation (PCRF)", "role": "Development Worker — Women Empowerment", "year_start": "2006", "year_end": "2013" },
+          { "company": "Office of CM Arvind Kejriwal", "role": "Advisor — Public Grievances (Janta Samwad)", "year_start": "2013", "year_end": "2015" }
+        ]
+      },
       "stats": { "total_party_switches": 1, "years_in_politics": 11, "total_positions_held": 2, "parliaments_served": 1 },
       "social_media": { "twitter": "@SwatiJaiHind", "instagram": "", "facebook": "" },
       "external_sources": {
@@ -370,14 +450,14 @@
           { "title": "AAP no longer the same party, no one can work with Kejriwal: Swati Maliwal", "url": "https://www.business-standard.com/india-news/aap-no-longer-the-same-party-no-one-can-work-with-kejriwal-swati-maliwal-126042500482_1.html", "date": "2026-04-25" }
         ]
       },
-      "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-26", "is_featured": false, "is_trending": true, "data_completeness": 38 }
+      "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-26", "is_featured": false, "is_trending": true, "data_completeness": 68 }
     },
     {
       "id": "harbhajan-singh",
       "slug": "harbhajan-singh",
       "name": "Harbhajan Singh",
       "name_hindi": "हरभजन सिंह",
-      "photo_url": "",
+      "photo_url": "/images/politicians/harbajan-singh.png",
       "date_of_birth": "1980-07-03",
       "age": 45,
       "current_info": {
@@ -416,11 +496,18 @@
         }
       ],
       "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
-      "education": { "has_data": false, "institutions": [] },
+      "education": {
+        "has_data": true,
+        "institutions": [
+          { "name": "DAV Public School", "degree": "Schooling", "location": "Jalandhar, Punjab", "year_start": "", "year_end": "1997" }
+        ]
+      },
       "career_before_politics": {
         "has_data": true,
         "positions": [
-          { "company": "Board of Control for Cricket in India (BCCI)", "role": "International Cricketer — India (Off-spin bowler)", "year_start": "1998", "year_end": "2016" }
+          { "company": "Board of Control for Cricket in India (BCCI)", "role": "International Cricketer — India (Off-spin bowler, 417 Test wickets)", "year_start": "1998", "year_end": "2016" },
+          { "company": "IPL — Mumbai Indians / CSK / KKR", "role": "IPL Cricketer", "year_start": "2008", "year_end": "2021" },
+          { "company": "Star Sports / Sony LIV", "role": "Cricket Commentator & TV Presenter", "year_start": "2016", "year_end": "2022" }
         ]
       },
       "stats": { "total_party_switches": 1, "years_in_politics": 1, "total_positions_held": 1, "parliaments_served": 1 },
@@ -433,16 +520,16 @@
           { "title": "Big blow to AAP: Raghav Chadha, 6 Rajya Sabha MPs merge with BJP", "url": "https://www.india.com/news/india/raghav-chadha-ashok-mittal-sandeep-pathak-harbhajan-singh-rajinder-gupta-vikram-sahney-swati-maliwal-rajya-sabha-mps-merge-with-bjp-aap-prime-minister-narendra-modi-amit-shah-8392306/", "date": "2026-04-24" }
         ]
       },
-      "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-26", "is_featured": false, "is_trending": true, "data_completeness": 35 }
+      "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-26", "is_featured": false, "is_trending": true, "data_completeness": 65 }
     },
     {
       "id": "ashok-mittal",
       "slug": "ashok-mittal",
       "name": "Ashok Mittal",
       "name_hindi": "अशोक मित्तल",
-      "photo_url": "",
-      "date_of_birth": "",
-      "age": 0,
+      "photo_url": "/images/politicians/ashok-mittal.png",
+      "date_of_birth": "1964-09-10",
+      "age": 61,
       "current_info": {
         "party": "BJP",
         "party_full_name": "Bharatiya Janata Party",
@@ -479,12 +566,45 @@
           "notes": "One of three MPs (with Chadha and Pathak) who announced the defection at the April 24 press conference."
         }
       ],
-      "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
-      "education": { "has_data": false, "institutions": [] },
+      "statements": {
+        "has_contradictions": true,
+        "before_switch": [
+          {
+            "quote": "The Centre's attempt to control Chandigarh's administration is an attack on Punjab's rights and federalism. This is unacceptable.",
+            "date": "2023",
+            "source_title": "Ashok Kumar Mittal | PRSIndia — Parliamentary Activity",
+            "source_url": "https://prsindia.org/mptrack/rajya-sabha/ashok-kumar-mittal",
+            "video_url": "",
+            "context": "Mittal was a visible AAP voice in the Rajya Sabha, regularly criticising the BJP-led Centre over its administrative control of Chandigarh — a Union Territory whose control AAP had contested as encroachment on Punjab's interests.",
+            "category": "criticism",
+            "confidence": "medium"
+          }
+        ],
+        "after_switch": [
+          {
+            "quote": "We have decided that we, the two-thirds members belonging to the AAP in Rajya Sabha, exercise the provisions of the Constitution of India and merge ourselves with the BJP.",
+            "date": "2026-04-24",
+            "source_title": "Raghav Chadha, Ashok Mittal and Sandeep Pathak quit AAP in big jolt to Kejriwal, join BJP",
+            "source_url": "https://www.indiatvnews.com/news/india/raghav-chadha-ashok-mittal-and-sandeep-pathak-quit-aap-in-big-jolt-to-kejriwal-join-bjp-2026-04-24-1038756",
+            "video_url": "",
+            "context": "Joint press conference statement on April 24, 2026. Notably, Mittal had been elevated to Deputy Leader of AAP in Rajya Sabha just 22 days earlier, replacing Raghav Chadha — and the switch came 10 days after an ED raid on Lovely Professional University's premises.",
+            "category": "general",
+            "confidence": "high"
+          }
+        ]
+      },
+      "education": {
+        "has_data": true,
+        "institutions": [
+          { "name": "Guru Nanak Dev University", "degree": "LL.B — Law", "location": "Amritsar, Punjab", "year_start": "1982", "year_end": "1986" },
+          { "name": "Atal Bihari Vajpayee Vishwavidyalaya", "degree": "Honoris Causa Doctorate", "location": "Bilaspur, CG", "year_start": "2022", "year_end": "2022" }
+        ]
+      },
       "career_before_politics": {
         "has_data": true,
         "positions": [
-          { "company": "Lovely Professional University", "role": "Founder & Chancellor", "year_start": "2005", "year_end": "2022" }
+          { "company": "Lovely Group", "role": "Founder — Education & Business Conglomerate", "year_start": "2001", "year_end": "2022" },
+          { "company": "Lovely Professional University", "role": "Founder & Chancellor (India's largest private university by enrolment)", "year_start": "2005", "year_end": "2022" }
         ]
       },
       "stats": { "total_party_switches": 1, "years_in_politics": 4, "total_positions_held": 2, "parliaments_served": 1 },
@@ -497,16 +617,16 @@
           { "title": "Big blow to AAP: Raghav Chadha, 6 Rajya Sabha MPs merge with BJP", "url": "https://www.india.com/news/india/raghav-chadha-ashok-mittal-sandeep-pathak-harbhajan-singh-rajinder-gupta-vikram-sahney-swati-maliwal-rajya-sabha-mps-merge-with-bjp-aap-prime-minister-narendra-modi-amit-shah-8392306/", "date": "2026-04-24" }
         ]
       },
-      "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-26", "is_featured": false, "is_trending": true, "data_completeness": 32 }
+      "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-26", "is_featured": false, "is_trending": true, "data_completeness": 50 }
     },
     {
       "id": "rajinder-gupta",
       "slug": "rajinder-gupta",
       "name": "Rajinder Gupta",
       "name_hindi": "राजिंदर गुप्ता",
-      "photo_url": "",
-      "date_of_birth": "",
-      "age": 0,
+      "photo_url": "/images/politicians/rajinder-gupta.png",
+      "date_of_birth": "1959-01-02",
+      "age": 67,
       "current_info": {
         "party": "BJP",
         "party_full_name": "Bharatiya Janata Party",
@@ -543,11 +663,21 @@
         }
       ],
       "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
-      "education": { "has_data": false, "institutions": [] },
+      "education": {
+        "has_data": true,
+        "institutions": [
+          { "name": "Self-taught (left school at age 14)", "degree": "No formal schooling beyond age 14", "location": "Punjab", "year_start": "", "year_end": "1973" },
+          { "name": "Harvard Business School", "degree": "Advanced Management Program", "location": "Boston, USA", "year_start": "", "year_end": "" },
+          { "name": "University of Oxford", "degree": "Management Programme", "location": "Oxford, UK", "year_start": "", "year_end": "" },
+          { "name": "Indian School of Business (ISB)", "degree": "Entrepreneurial Development Program", "location": "Hyderabad", "year_start": "", "year_end": "" }
+        ]
+      },
       "career_before_politics": {
         "has_data": true,
         "positions": [
-          { "company": "Trident Group", "role": "Chairman Emeritus", "year_start": "", "year_end": "2022" }
+          { "company": "Factory (Candles & Cement Pipes)", "role": "Daily Wage Labourer — ₹30/day", "year_start": "1974", "year_end": "1985" },
+          { "company": "Abhishek Industries", "role": "Founder — Fertiliser Manufacturing", "year_start": "1985", "year_end": "1991" },
+          { "company": "Trident Group", "role": "Founder & Chairman Emeritus (Global leader in home textiles, paper & chemicals; Padma Shri 2007)", "year_start": "1991", "year_end": "2022" }
         ]
       },
       "stats": { "total_party_switches": 1, "years_in_politics": 4, "total_positions_held": 1, "parliaments_served": 1 },
@@ -560,16 +690,16 @@
           { "title": "Big blow to AAP: Raghav Chadha, 6 Rajya Sabha MPs merge with BJP", "url": "https://www.india.com/news/india/raghav-chadha-ashok-mittal-sandeep-pathak-harbhajan-singh-rajinder-gupta-vikram-sahney-swati-maliwal-rajya-sabha-mps-merge-with-bjp-aap-prime-minister-narendra-modi-amit-shah-8392306/", "date": "2026-04-24" }
         ]
       },
-      "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-26", "is_featured": false, "is_trending": true, "data_completeness": 28 }
+      "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-26", "is_featured": false, "is_trending": true, "data_completeness": 48 }
     },
     {
       "id": "vikramjit-singh-sahney",
       "slug": "vikramjit-singh-sahney",
       "name": "Vikramjit Singh Sahney",
       "name_hindi": "विक्रमजीत सिंह साहनी",
-      "photo_url": "",
-      "date_of_birth": "",
-      "age": 0,
+      "photo_url": "/images/politicians/vikramjit-sahney.png",
+      "date_of_birth": "1962-02-20",
+      "age": 64,
       "current_info": {
         "party": "BJP",
         "party_full_name": "Bharatiya Janata Party",
@@ -606,11 +736,20 @@
         }
       ],
       "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
-      "education": { "has_data": false, "institutions": [] },
+      "education": {
+        "has_data": true,
+        "institutions": [
+          { "name": "Government Barjindra College", "degree": "Undergraduate", "location": "Faridkot, Punjab", "year_start": "1980", "year_end": "1982" },
+          { "name": "Punjabi University", "degree": "MA — Economics", "location": "Patiala, Punjab", "year_start": "1982", "year_end": "1984" },
+          { "name": "Institute of Productivity and Management", "degree": "MBA — Market Research & Industrial Relations", "location": "Meerut, UP", "year_start": "1984", "year_end": "1986" },
+          { "name": "Harvard Kennedy School", "degree": "Public Leadership Credential (pursuing)", "location": "Cambridge, USA", "year_start": "", "year_end": "" }
+        ]
+      },
       "career_before_politics": {
         "has_data": true,
         "positions": [
-          { "company": "Sun Group", "role": "Chairman", "year_start": "", "year_end": "2022" }
+          { "company": "Sun Group", "role": "Chairman — International Trade, Fertilisers, Minerals & Agri Commodities", "year_start": "1990", "year_end": "2022" },
+          { "company": "World Punjabi Organisation", "role": "Founder (non-political body connecting global Punjabi communities)", "year_start": "1998", "year_end": "2022" }
         ]
       },
       "stats": { "total_party_switches": 1, "years_in_politics": 4, "total_positions_held": 1, "parliaments_served": 1 },
@@ -623,7 +762,7 @@
           { "title": "Big blow to AAP: Raghav Chadha, 6 Rajya Sabha MPs merge with BJP", "url": "https://www.india.com/news/india/raghav-chadha-ashok-mittal-sandeep-pathak-harbhajan-singh-rajinder-gupta-vikram-sahney-swati-maliwal-rajya-sabha-mps-merge-with-bjp-aap-prime-minister-narendra-modi-amit-shah-8392306/", "date": "2026-04-24" }
         ]
       },
-      "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-26", "is_featured": false, "is_trending": true, "data_completeness": 28 }
+      "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-26", "is_featured": false, "is_trending": true, "data_completeness": 48 }
     }
   ],
   "platform_metadata": {
