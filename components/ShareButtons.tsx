@@ -57,7 +57,7 @@ export default function ShareButtons({
         ) : (
           <>
             <Link2 className="w-4 h-4" />
-            Copy for Instagram
+            Copy Link
           </>
         )}
       </button>
