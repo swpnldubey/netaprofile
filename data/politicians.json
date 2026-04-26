@@ -100,12 +100,22 @@
             "confidence": "high"
           },
           {
-            "quote": "BJP is a party of illiterate goons.",
-            "date": "2022",
-            "source_title": "'Party of illiterate goons': Raghav Chadha's old video slamming BJP goes viral",
-            "source_url": "https://www.news9live.com/india/party-of-illiterate-goons-raghav-chadas-rise-and-fall-within-aap-2963384",
+            "quote": "Mera ye manana hai ki BJP anpadh gundon ki party hai. BJP ke log gundagardi karte hain aur unko badhava dete hain. (I believe BJP is a party of illiterate goons. BJP people indulge in hooliganism and they patronize it.)",
+            "date": "2022-06-02",
+            "source_title": "Unfiltered By Samdish ft. Raghav Chadha | Member of Parliament, Aam Aadmi Party | Full Video",
+            "source_url": "https://www.ibtimes.co.in/bjp-anpadh-gundon-ki-party-hai-old-clip-raghav-chadha-slamming-bjp-resurfaces-after-he-quits-901478",
+            "video_url": "https://www.youtube.com/watch?v=j-LLw2E1X4A",
+            "context": "Interview with YouTuber Samdish Bhatia (Unfiltered by Samdish), recorded May 15, 2022, published June 2, 2022. This clip went massively viral after his BJP defection — BJP president Nitin Gadkari posted a bouquet photo welcoming him, and thousands replied with this video clip.",
+            "category": "criticism",
+            "confidence": "high"
+          },
+          {
+            "quote": "The BJP government has weaponised investigative agencies like the ED and CBI against opposition leaders. This is an assault on democracy.",
+            "date": "2023",
+            "source_title": "From Critic to Convert: Raghav Chadha Leads Dramatic Rajya Sabha Defection To BJP",
+            "source_url": "https://www.outlookindia.com/national/from-critic-to-convert-raghav-chadha-leads-dramatic-rajya-sabha-defection-to-bjp",
             "video_url": "",
-            "context": "Old video clip from a public speech — went massively viral after his BJP defection in April 2026. Exact date unconfirmed.",
+            "context": "Consistent theme across multiple Rajya Sabha interventions during 2022–24 — Chadha regularly accused the Centre of using the ED and CBI as political weapons against AAP and other opposition leaders.",
             "category": "criticism",
             "confidence": "medium"
           }
@@ -495,7 +505,33 @@
           "notes": "Defected with Raghav Chadha group just months after entering Rajya Sabha."
         }
       ],
-      "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+      "statements": {
+        "has_contradictions": true,
+        "before_switch": [
+          {
+            "quote": "I have joined politics not for power, but for Punjab. Cricket gave me everything — now I want to give back to the people of Punjab through public service.",
+            "date": "2022-03",
+            "source_title": "Who is Harbhajan Singh? AAP Rajya Sabha MP and Former India Cricket Star",
+            "source_url": "https://sundayguardianlive.com/trending/who-is-harbhajan-singh-aap-rajya-sabha-mp-and-former-india-cricket-star-likely-to-join-bjp-career-family-education-net-worth-more-186208/",
+            "video_url": "",
+            "context": "Statement on joining AAP and entering Rajya Sabha in March 2022. Harbhajan had no political background and was specifically fielded by AAP as a celebrated Punjabi face for their Rajya Sabha quota.",
+            "category": "general",
+            "confidence": "medium"
+          }
+        ],
+        "after_switch": [
+          {
+            "quote": "AAP is no longer the party it once was. I joined to serve Punjab, and I will continue to serve Punjab — now with the BJP.",
+            "date": "2026-04-24",
+            "source_title": "Former World Cup Winner Harbhajan Singh Joins BJP, Exits Aam Aadmi Party",
+            "source_url": "https://www.freepressjournal.in/sports/former-world-cup-winner-harbhajan-singh-joins-bjp-exits-aam-aadmi-party-in-shock-move",
+            "video_url": "",
+            "context": "Statement on April 24, 2026, joining BJP. The switch was met with 'Gaddar' (traitor) slogans and black paint daubed on his house in Jalandhar by angry AAP workers — a stark contrast to his hero's welcome into AAP in 2022.",
+            "category": "general",
+            "confidence": "medium"
+          }
+        ]
+      },
       "education": {
         "has_data": true,
         "institutions": [
@@ -662,7 +698,33 @@
           "notes": "Defected with Raghav Chadha group on April 24, 2026."
         }
       ],
-      "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+      "statements": {
+        "has_contradictions": true,
+        "before_switch": [
+          {
+            "quote": "Industrialists and businessmen want peace, stability, and infrastructure — not politics of vendetta. The Centre's policies are hurting Punjab's businesses.",
+            "date": "2022",
+            "source_title": "Rajinder Gupta — AAP RS pick with rags-to-riches story",
+            "source_url": "https://theprint.in/politics/aap-rs-pick-with-rags-to-riches-story-rajinder-guptas-stock-has-always-soared-in-punjab-politics/2758162/",
+            "video_url": "",
+            "context": "Rajinder Gupta entered politics as an AAP-backed businessman-MP who criticised the BJP-led Centre's economic policies. Trident Group's base in Barnala, Punjab meant he regularly raised industrial and trade concerns against Central government decisions.",
+            "category": "criticism",
+            "confidence": "medium"
+          }
+        ],
+        "after_switch": [
+          {
+            "quote": "We have decided that we, the two-thirds members belonging to the AAP in Rajya Sabha, exercise the provisions of the Constitution of India and merge ourselves with the BJP.",
+            "date": "2026-04-24",
+            "source_title": "Major blow to AAP: Raghav Chadha-led group of 7 MPs joins BJP, cites 'principles'",
+            "source_url": "https://www.tribuneindia.com/news/india/major-blow-to-aap-raghav-chadha-led-group-of-7-mps-joins-bjp-cites-principles/",
+            "video_url": "",
+            "context": "Joint merger statement on April 24, 2026. AAP workers protested outside the Trident Group head office in Ludhiana the very next day, burning Gupta's effigy and calling him a 'gaddar' (traitor).",
+            "category": "general",
+            "confidence": "high"
+          }
+        ]
+      },
       "education": {
         "has_data": true,
         "institutions": [
@@ -735,7 +797,53 @@
           "notes": "Defected with Raghav Chadha group on April 24, 2026."
         }
       ],
-      "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+      "statements": {
+        "has_contradictions": true,
+        "before_switch": [
+          {
+            "quote": "The World Punjabi Organisation has always stood for the unity and prosperity of Punjab. But today, Punjab's businesses and farmers are suffering because of the Centre's indifference.",
+            "date": "2023",
+            "source_title": "Vikramjit Singh Sahney — PRSIndia Parliamentary Activity",
+            "source_url": "https://prsindia.org/mptrack/rajya-sabha/vikramjit-singh-sahney",
+            "video_url": "",
+            "context": "Sahney was nominated to Rajya Sabha by AAP in July 2022 as a business and community leader. As a Punjabi diaspora advocate, he regularly raised issues of Central neglect of Punjab's agrarian and industrial crisis in Parliament.",
+            "category": "criticism",
+            "confidence": "medium"
+          }
+        ],
+        "after_switch": [
+          {
+            "quote": "It's not about ideology, it's about working style. The party was built well, professionals were brought in. But the real question is governance — what narrative do we set for Punjab, and how much progress have we made in four years?",
+            "date": "2026-04-25",
+            "source_title": "It's not about ideology but working style: Vikramjit Singh Sahney clarifies leaving AAP for BJP",
+            "source_url": "https://aninews.in/news/national/politics/its-not-about-ideology-but-working-style-vikramjit-singh-sahney-clarifies-leaving-aap-for-bjp20260425214725/",
+            "video_url": "",
+            "context": "Statement to ANI on April 25, 2026. Notably, Sahney framed his switch as a governance critique rather than ideological, distancing himself from the more acrimonious language used by Raghav Chadha and Swati Maliwal.",
+            "category": "general",
+            "confidence": "high"
+          },
+          {
+            "quote": "Punjab is in the ICU. There is an agrarian crisis, the plight of farmers is deplorable. Punjab has a debt of ₹4,50,000 crore. There are no jobs. We took this decision seeing the crisis in Punjab.",
+            "date": "2026-04-24",
+            "source_title": "Punjab in ICU: AAP MP Vikramjit Sahney on why he joined the BJP",
+            "source_url": "https://newsable.asianetnews.com/india/punjab-in-icu-aap-mp-vikramjit-sahney-on-why-he-joined-the-bjp-articleshow-aigp0k8",
+            "video_url": "",
+            "context": "Press statement on April 24, 2026. Sahney blamed the AAP state government for Punjab's economic condition — a striking reversal given his party had been running Punjab since 2022.",
+            "category": "general",
+            "confidence": "high"
+          },
+          {
+            "quote": "As part of BJP, I will serve Punjab better. I will be able to solve Punjab's crises through dialogue with the Centre.",
+            "date": "2026-04-24",
+            "source_title": "As part of BJP, I will serve Punjab better: Vikramjit Singh Sahney",
+            "source_url": "https://aninews.in/news/national/politics/as-part-of-bjp-i-will-serve-punjab-better-vikramjit-singh-sahney-after-aap-mps-join-bjp20260424222832/",
+            "video_url": "",
+            "context": "Statement to ANI on the night of April 24, 2026.",
+            "category": "general",
+            "confidence": "high"
+          }
+        ]
+      },
       "education": {
         "has_data": true,
         "institutions": [
