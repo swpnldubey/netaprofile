@@ -1,0 +1,642 @@
+{
+  "politicians": [
+    {
+      "id": "raghav-chadha",
+      "slug": "raghav-chadha",
+      "name": "Raghav Chadha",
+      "name_hindi": "राघव चड्ढा",
+      "photo_url": "/images/politicians/raghav-chada.jpg",
+      "date_of_birth": "1988-11-11",
+      "age": 37,
+      "current_info": {
+        "party": "BJP",
+        "party_full_name": "Bharatiya Janata Party",
+        "party_color": "#FF9933",
+        "position": "Rajya Sabha MP",
+        "state": "Punjab",
+        "constituency": "Punjab (Rajya Sabha)",
+        "status": "active"
+      },
+      "political_timeline": [
+        {
+          "party": "AAP",
+          "party_full_name": "Aam Aadmi Party",
+          "party_color": "#0066CC",
+          "start_date": "2012",
+          "end_date": "2026-04-24",
+          "duration_years": 14,
+          "positions": [
+            {
+              "title": "National Treasurer",
+              "start": "2015",
+              "end": "2022"
+            },
+            {
+              "title": "National Spokesperson",
+              "start": "2015",
+              "end": "2026-04-24"
+            },
+            {
+              "title": "MLA – Rajinder Nagar, Delhi",
+              "start": "2020",
+              "end": "2022"
+            },
+            {
+              "title": "Vice Chairman, Delhi Jal Board",
+              "start": "2020",
+              "end": "2022"
+            },
+            {
+              "title": "Rajya Sabha MP (Punjab)",
+              "start": "2022-03-21",
+              "end": "2026-04-24"
+            },
+            {
+              "title": "Leader, AAP in Rajya Sabha",
+              "start": "2023",
+              "end": "2026-04-02"
+            }
+          ],
+          "notes": "Joined during India Against Corruption movement in 2011–12. Became youngest Rajya Sabha MP ever at age 33. Removed as RS deputy leader on April 2, 2026 — weeks before defection."
+        },
+        {
+          "party": "BJP",
+          "party_full_name": "Bharatiya Janata Party",
+          "party_color": "#FF9933",
+          "start_date": "2026-04-24",
+          "end_date": "Present",
+          "duration_years": 0,
+          "positions": [
+            {
+              "title": "Rajya Sabha MP",
+              "start": "2026-04-24",
+              "end": "Present"
+            }
+          ],
+          "notes": "Defected with 6 other AAP Rajya Sabha MPs using constitutional merger provision (was 7 of 10 AAP RS MPs — crossed 2/3 threshold). Deleted all anti-BJP posts from X before announcing switch."
+        }
+      ],
+      "statements": {
+        "has_contradictions": true,
+        "before_switch": [
+          {
+            "quote": "We in India today pay taxes like England to get services like Somalia.",
+            "date": "2024-07-25",
+            "source_title": "Raghav Chadha Full Speech in Rajya Sabha on Union Budget 2024",
+            "source_url": "https://www.youtube.com/watch?v=jp7-65NrHnM",
+            "video_url": "https://www.youtube.com/watch?v=fdBTG43aypA",
+            "context": "Rajya Sabha speech during Union Budget 2024–25 discussion. Direct attack on Modi government's tax regime and public services.",
+            "category": "criticism",
+            "confidence": "high"
+          },
+          {
+            "quote": "There is a tax on waking up, there is a tax on sleeping and crying… there is a tax on books and ink, on vegetables, cars, houses, and on buying and selling.",
+            "date": "2024-07-25",
+            "source_title": "Best Of Raghav Chadha's Speech In Parliament On Budget 2024",
+            "source_url": "https://www.youtube.com/watch?v=fdBTG43aypA",
+            "video_url": "https://www.youtube.com/watch?v=fdBTG43aypA",
+            "context": "Same Rajya Sabha Budget speech — mocking the breadth of GST and indirect taxes under the BJP-led government.",
+            "category": "criticism",
+            "confidence": "high"
+          },
+          {
+            "quote": "BJP is a party of illiterate goons.",
+            "date": "2022",
+            "source_title": "'Party of illiterate goons': Raghav Chadha's old video slamming BJP goes viral",
+            "source_url": "https://www.news9live.com/india/party-of-illiterate-goons-raghav-chadas-rise-and-fall-within-aap-2963384",
+            "video_url": "",
+            "context": "Old video clip from a public speech — went massively viral after his BJP defection in April 2026. Exact date unconfirmed.",
+            "category": "criticism",
+            "confidence": "medium"
+          }
+        ],
+        "after_switch": [
+          {
+            "quote": "The Aam Aadmi Party, which I nurtured with my blood and sweat and to which I gave 15 years of my youth, has now completely deviated from its principles, values, and core morals. The party is no longer working for the country or in the national interest but for personal gain.",
+            "date": "2026-04-24",
+            "source_title": "Major blow to AAP: Raghav Chadha-led group of 7 MPs joins BJP, cites 'principles'",
+            "source_url": "https://www.tribuneindia.com/news/india/major-blow-to-aap-raghav-chadha-led-group-of-7-mps-joins-bjp-cites-principles/",
+            "video_url": "",
+            "context": "Press conference in Delhi on April 24, 2026 announcing BJP merger.",
+            "category": "general",
+            "confidence": "high"
+          },
+          {
+            "quote": "For the past few years, I felt like the right man in the wrong party. So today, we announce that I am distancing myself from the AAP and getting close to the public.",
+            "date": "2026-04-24",
+            "source_title": "Raghav Chadha joins BJP; says he felt like 'right man in wrong party'",
+            "source_url": "https://www.theweek.in/news/india/2026/04/24/raghav-chadda-joins-bjp-says-he-felt-like-right-man-in-wrong-party-in-the-aap.html",
+            "video_url": "",
+            "context": "Same press conference on April 24, 2026.",
+            "category": "general",
+            "confidence": "high"
+          },
+          {
+            "quote": "I am telling you the real reason as to why I distanced myself from party activities. I did not want to be a part of their crimes.",
+            "date": "2026-04-24",
+            "source_title": "Raghav Chadha, Ashok Mittal and Sandeep Pathak quit AAP in big jolt to Kejriwal, join BJP",
+            "source_url": "https://www.indiatvnews.com/news/india/raghav-chadha-ashok-mittal-and-sandeep-pathak-quit-aap-in-big-jolt-to-kejriwal-join-bjp-2026-04-24-1038756",
+            "video_url": "",
+            "context": "Same press conference on April 24, 2026.",
+            "category": "general",
+            "confidence": "high"
+          }
+        ]
+      },
+      "education": {
+        "has_data": true,
+        "institutions": [
+          {
+            "name": "Modern School",
+            "degree": "Secondary Education",
+            "location": "New Delhi",
+            "year_start": "",
+            "year_end": ""
+          },
+          {
+            "name": "University of Delhi",
+            "degree": "Bachelor of Commerce (B.Com)",
+            "location": "New Delhi",
+            "year_start": "",
+            "year_end": "2009"
+          },
+          {
+            "name": "Institute of Chartered Accountants of India (ICAI)",
+            "degree": "Chartered Accountancy (CA)",
+            "location": "India",
+            "year_start": "",
+            "year_end": "2011"
+          }
+        ]
+      },
+      "career_before_politics": {
+        "has_data": true,
+        "positions": [
+          {
+            "company": "Deloitte",
+            "role": "Chartered Accountant",
+            "year_start": "2011",
+            "year_end": "2012"
+          },
+          {
+            "company": "Grant Thornton",
+            "role": "Chartered Accountant",
+            "year_start": "2011",
+            "year_end": "2012"
+          }
+        ]
+      },
+      "stats": {
+        "total_party_switches": 1,
+        "years_in_politics": 14,
+        "total_positions_held": 6,
+        "parliaments_served": 1
+      },
+      "social_media": {
+        "twitter": "@raghav_chadha",
+        "instagram": "@raghavchadha88",
+        "facebook": "raghavchadhaca"
+      },
+      "external_sources": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Raghav_Chadha",
+        "myneta": "https://www.myneta.info/rajsab09aff/candidate.php?candidate_id=942",
+        "prs_legislative": "https://prsindia.org/mptrack/rajya-sabha/raghav-chadha",
+        "news_articles": [
+          {
+            "title": "Body blow to AAP as Raghav Chadha, 6 others quit to join BJP",
+            "url": "https://theprint.in/politics/body-blow-to-aap-as-raghav-chadha-6-others-quit-to-join-bjp-and-there-are-others/2913222/",
+            "date": "2026-04-24"
+          },
+          {
+            "title": "From Critic to Convert: Raghav Chadha Leads Dramatic Rajya Sabha Defection To BJP",
+            "url": "https://www.outlookindia.com/national/from-critic-to-convert-raghav-chadha-leads-dramatic-rajya-sabha-defection-to-bjp",
+            "date": "2026-04-24"
+          },
+          {
+            "title": "Raghav Chadha has deleted all anti-BJP, anti-Modi posts: AAP hits back",
+            "url": "https://www.tribuneindia.com/news/delhi/raghav-chadha-has-deleted-all-anti-bjp-anti-modi-posts-aap-hits-back-again/",
+            "date": "2026-04-25"
+          }
+        ]
+      },
+      "metadata": {
+        "added_date": "2026-04-26",
+        "last_updated": "2026-04-26",
+        "is_featured": true,
+        "is_trending": true,
+        "data_completeness": 72
+      }
+    },
+    {
+      "id": "sandeep-pathak",
+      "slug": "sandeep-pathak",
+      "name": "Sandeep Pathak",
+      "name_hindi": "संदीप पाठक",
+      "photo_url": "",
+      "date_of_birth": "1979-10-04",
+      "age": 46,
+      "current_info": {
+        "party": "BJP",
+        "party_full_name": "Bharatiya Janata Party",
+        "party_color": "#FF9933",
+        "position": "Rajya Sabha MP",
+        "state": "Punjab",
+        "constituency": "Punjab (Rajya Sabha)",
+        "status": "active"
+      },
+      "political_timeline": [
+        {
+          "party": "AAP",
+          "party_full_name": "Aam Aadmi Party",
+          "party_color": "#0066CC",
+          "start_date": "2022",
+          "end_date": "2026-04-24",
+          "duration_years": 4,
+          "positions": [
+            { "title": "Rajya Sabha MP (Punjab)", "start": "2022-04", "end": "2026-04-24" },
+            { "title": "National General Secretary (Organisation)", "start": "2022-12-13", "end": "2026-04-24" }
+          ],
+          "notes": "Former IIT Delhi professor and Cambridge PhD. Key architect of AAP's Punjab 2022 election victory."
+        },
+        {
+          "party": "BJP",
+          "party_full_name": "Bharatiya Janata Party",
+          "party_color": "#FF9933",
+          "start_date": "2026-04-24",
+          "end_date": "Present",
+          "duration_years": 0,
+          "positions": [
+            { "title": "Rajya Sabha MP", "start": "2026-04-24", "end": "Present" }
+          ],
+          "notes": "Defected with Raghav Chadha and 5 other AAP MPs on April 24, 2026."
+        }
+      ],
+      "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+      "education": {
+        "has_data": true,
+        "institutions": [
+          { "name": "University of Cambridge", "degree": "PhD — High Temperature Superconducting Materials", "location": "Cambridge, UK", "year_start": "", "year_end": "" },
+          { "name": "University of Oxford", "degree": "Post-Doctoral Research", "location": "Oxford, UK", "year_start": "", "year_end": "" },
+          { "name": "MIT", "degree": "Post-Doctoral Research", "location": "Cambridge, USA", "year_start": "", "year_end": "" }
+        ]
+      },
+      "career_before_politics": {
+        "has_data": true,
+        "positions": [
+          { "company": "IIT Delhi", "role": "Associate Professor, Dept. of Energy Science and Engineering", "year_start": "", "year_end": "2020" }
+        ]
+      },
+      "stats": { "total_party_switches": 1, "years_in_politics": 4, "total_positions_held": 2, "parliaments_served": 1 },
+      "social_media": { "twitter": "", "instagram": "", "facebook": "" },
+      "external_sources": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sandeep_Pathak",
+        "myneta": "https://www.myneta.info/rajsab09aff/candidate.php?candidate_id=936",
+        "prs_legislative": "https://prsindia.org/mptrack/rajya-sabha/sandeep-kumar-pathak",
+        "news_articles": [
+          { "title": "Big blow to AAP: Raghav Chadha, 6 Rajya Sabha MPs merge with BJP. Who are they?", "url": "https://www.india.com/news/india/raghav-chadha-ashok-mittal-sandeep-pathak-harbhajan-singh-rajinder-gupta-vikram-sahney-swati-maliwal-rajya-sabha-mps-merge-with-bjp-aap-prime-minister-narendra-modi-amit-shah-8392306/", "date": "2026-04-24" }
+        ]
+      },
+      "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-26", "is_featured": false, "is_trending": true, "data_completeness": 45 }
+    },
+    {
+      "id": "swati-maliwal",
+      "slug": "swati-maliwal",
+      "name": "Swati Maliwal",
+      "name_hindi": "स्वाति मालीवाल",
+      "photo_url": "",
+      "date_of_birth": "",
+      "age": 0,
+      "current_info": {
+        "party": "BJP",
+        "party_full_name": "Bharatiya Janata Party",
+        "party_color": "#FF9933",
+        "position": "Rajya Sabha MP",
+        "state": "Delhi",
+        "constituency": "Delhi (Rajya Sabha)",
+        "status": "active"
+      },
+      "political_timeline": [
+        {
+          "party": "AAP",
+          "party_full_name": "Aam Aadmi Party",
+          "party_color": "#0066CC",
+          "start_date": "2015",
+          "end_date": "2026-04-24",
+          "duration_years": 11,
+          "positions": [
+            { "title": "Chairperson, Delhi Commission for Women (DCW)", "start": "2015", "end": "2024" },
+            { "title": "Rajya Sabha MP (Delhi)", "start": "2024", "end": "2026-04-24" }
+          ],
+          "notes": "Known for activism on women's rights. Had public fallout with Kejriwal after alleging assault at his residence in May 2024."
+        },
+        {
+          "party": "BJP",
+          "party_full_name": "Bharatiya Janata Party",
+          "party_color": "#FF9933",
+          "start_date": "2026-04-24",
+          "end_date": "Present",
+          "duration_years": 0,
+          "positions": [
+            { "title": "Rajya Sabha MP", "start": "2026-04-24", "end": "Present" }
+          ],
+          "notes": "Defected with Raghav Chadha group. Said 'AAP is no longer the same party, no one can work with Kejriwal.'"
+        }
+      ],
+      "statements": {
+        "has_contradictions": false,
+        "before_switch": [],
+        "after_switch": [
+          {
+            "quote": "AAP is no longer the same party. No one can work with Kejriwal.",
+            "date": "2026-04-25",
+            "source_title": "AAP no longer the same party, no one can work with Kejriwal: Swati Maliwal",
+            "source_url": "https://www.business-standard.com/india-news/aap-no-longer-the-same-party-no-one-can-work-with-kejriwal-swati-maliwal-126042500482_1.html",
+            "video_url": "",
+            "context": "Statement after joining BJP on April 24-25, 2026.",
+            "category": "general",
+            "confidence": "high"
+          }
+        ]
+      },
+      "education": { "has_data": false, "institutions": [] },
+      "career_before_politics": { "has_data": false, "positions": [] },
+      "stats": { "total_party_switches": 1, "years_in_politics": 11, "total_positions_held": 2, "parliaments_served": 1 },
+      "social_media": { "twitter": "@SwatiJaiHind", "instagram": "", "facebook": "" },
+      "external_sources": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Swati_Maliwal",
+        "myneta": "",
+        "prs_legislative": "",
+        "news_articles": [
+          { "title": "AAP no longer the same party, no one can work with Kejriwal: Swati Maliwal", "url": "https://www.business-standard.com/india-news/aap-no-longer-the-same-party-no-one-can-work-with-kejriwal-swati-maliwal-126042500482_1.html", "date": "2026-04-25" }
+        ]
+      },
+      "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-26", "is_featured": false, "is_trending": true, "data_completeness": 38 }
+    },
+    {
+      "id": "harbhajan-singh",
+      "slug": "harbhajan-singh",
+      "name": "Harbhajan Singh",
+      "name_hindi": "हरभजन सिंह",
+      "photo_url": "",
+      "date_of_birth": "1980-07-03",
+      "age": 45,
+      "current_info": {
+        "party": "BJP",
+        "party_full_name": "Bharatiya Janata Party",
+        "party_color": "#FF9933",
+        "position": "Rajya Sabha MP",
+        "state": "Punjab",
+        "constituency": "Punjab (Rajya Sabha)",
+        "status": "active"
+      },
+      "political_timeline": [
+        {
+          "party": "AAP",
+          "party_full_name": "Aam Aadmi Party",
+          "party_color": "#0066CC",
+          "start_date": "2025-11",
+          "end_date": "2026-04-24",
+          "duration_years": 0,
+          "positions": [
+            { "title": "Rajya Sabha MP (Punjab)", "start": "2025-11", "end": "2026-04-24" }
+          ],
+          "notes": "Former Indian cricket captain and legendary off-spin bowler. Joined politics after retiring from cricket."
+        },
+        {
+          "party": "BJP",
+          "party_full_name": "Bharatiya Janata Party",
+          "party_color": "#FF9933",
+          "start_date": "2026-04-24",
+          "end_date": "Present",
+          "duration_years": 0,
+          "positions": [
+            { "title": "Rajya Sabha MP", "start": "2026-04-24", "end": "Present" }
+          ],
+          "notes": "Defected with Raghav Chadha group just months after entering Rajya Sabha."
+        }
+      ],
+      "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+      "education": { "has_data": false, "institutions": [] },
+      "career_before_politics": {
+        "has_data": true,
+        "positions": [
+          { "company": "Board of Control for Cricket in India (BCCI)", "role": "International Cricketer — India (Off-spin bowler)", "year_start": "1998", "year_end": "2016" }
+        ]
+      },
+      "stats": { "total_party_switches": 1, "years_in_politics": 1, "total_positions_held": 1, "parliaments_served": 1 },
+      "social_media": { "twitter": "@harbhajan_3", "instagram": "@harbhajan3", "facebook": "" },
+      "external_sources": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Harbhajan_Singh",
+        "myneta": "",
+        "prs_legislative": "",
+        "news_articles": [
+          { "title": "Big blow to AAP: Raghav Chadha, 6 Rajya Sabha MPs merge with BJP", "url": "https://www.india.com/news/india/raghav-chadha-ashok-mittal-sandeep-pathak-harbhajan-singh-rajinder-gupta-vikram-sahney-swati-maliwal-rajya-sabha-mps-merge-with-bjp-aap-prime-minister-narendra-modi-amit-shah-8392306/", "date": "2026-04-24" }
+        ]
+      },
+      "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-26", "is_featured": false, "is_trending": true, "data_completeness": 35 }
+    },
+    {
+      "id": "ashok-mittal",
+      "slug": "ashok-mittal",
+      "name": "Ashok Mittal",
+      "name_hindi": "अशोक मित्तल",
+      "photo_url": "",
+      "date_of_birth": "",
+      "age": 0,
+      "current_info": {
+        "party": "BJP",
+        "party_full_name": "Bharatiya Janata Party",
+        "party_color": "#FF9933",
+        "position": "Rajya Sabha MP",
+        "state": "Punjab",
+        "constituency": "Punjab (Rajya Sabha)",
+        "status": "active"
+      },
+      "political_timeline": [
+        {
+          "party": "AAP",
+          "party_full_name": "Aam Aadmi Party",
+          "party_color": "#0066CC",
+          "start_date": "2022",
+          "end_date": "2026-04-24",
+          "duration_years": 4,
+          "positions": [
+            { "title": "Rajya Sabha MP (Punjab)", "start": "2022", "end": "2026-04-24" },
+            { "title": "Deputy Leader, AAP in Rajya Sabha", "start": "2026-04-02", "end": "2026-04-24" }
+          ],
+          "notes": "Founder of Lovely Professional University. Was made AAP deputy RS leader on April 2, 2026 — the same day Raghav Chadha was removed."
+        },
+        {
+          "party": "BJP",
+          "party_full_name": "Bharatiya Janata Party",
+          "party_color": "#FF9933",
+          "start_date": "2026-04-24",
+          "end_date": "Present",
+          "duration_years": 0,
+          "positions": [
+            { "title": "Rajya Sabha MP", "start": "2026-04-24", "end": "Present" }
+          ],
+          "notes": "One of three MPs (with Chadha and Pathak) who announced the defection at the April 24 press conference."
+        }
+      ],
+      "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+      "education": { "has_data": false, "institutions": [] },
+      "career_before_politics": {
+        "has_data": true,
+        "positions": [
+          { "company": "Lovely Professional University", "role": "Founder & Chancellor", "year_start": "2005", "year_end": "2022" }
+        ]
+      },
+      "stats": { "total_party_switches": 1, "years_in_politics": 4, "total_positions_held": 2, "parliaments_served": 1 },
+      "social_media": { "twitter": "", "instagram": "", "facebook": "" },
+      "external_sources": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ashok_Kumar_Mittal",
+        "myneta": "",
+        "prs_legislative": "",
+        "news_articles": [
+          { "title": "Big blow to AAP: Raghav Chadha, 6 Rajya Sabha MPs merge with BJP", "url": "https://www.india.com/news/india/raghav-chadha-ashok-mittal-sandeep-pathak-harbhajan-singh-rajinder-gupta-vikram-sahney-swati-maliwal-rajya-sabha-mps-merge-with-bjp-aap-prime-minister-narendra-modi-amit-shah-8392306/", "date": "2026-04-24" }
+        ]
+      },
+      "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-26", "is_featured": false, "is_trending": true, "data_completeness": 32 }
+    },
+    {
+      "id": "rajinder-gupta",
+      "slug": "rajinder-gupta",
+      "name": "Rajinder Gupta",
+      "name_hindi": "राजिंदर गुप्ता",
+      "photo_url": "",
+      "date_of_birth": "",
+      "age": 0,
+      "current_info": {
+        "party": "BJP",
+        "party_full_name": "Bharatiya Janata Party",
+        "party_color": "#FF9933",
+        "position": "Rajya Sabha MP",
+        "state": "Punjab",
+        "constituency": "Punjab (Rajya Sabha)",
+        "status": "active"
+      },
+      "political_timeline": [
+        {
+          "party": "AAP",
+          "party_full_name": "Aam Aadmi Party",
+          "party_color": "#0066CC",
+          "start_date": "2022",
+          "end_date": "2026-04-24",
+          "duration_years": 4,
+          "positions": [
+            { "title": "Rajya Sabha MP (Punjab)", "start": "2022", "end": "2026-04-24" }
+          ],
+          "notes": "Chairman Emeritus of Trident Group. Long association with industry bodies including CII."
+        },
+        {
+          "party": "BJP",
+          "party_full_name": "Bharatiya Janata Party",
+          "party_color": "#FF9933",
+          "start_date": "2026-04-24",
+          "end_date": "Present",
+          "duration_years": 0,
+          "positions": [
+            { "title": "Rajya Sabha MP", "start": "2026-04-24", "end": "Present" }
+          ],
+          "notes": "Defected with Raghav Chadha group on April 24, 2026."
+        }
+      ],
+      "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+      "education": { "has_data": false, "institutions": [] },
+      "career_before_politics": {
+        "has_data": true,
+        "positions": [
+          { "company": "Trident Group", "role": "Chairman Emeritus", "year_start": "", "year_end": "2022" }
+        ]
+      },
+      "stats": { "total_party_switches": 1, "years_in_politics": 4, "total_positions_held": 1, "parliaments_served": 1 },
+      "social_media": { "twitter": "", "instagram": "", "facebook": "" },
+      "external_sources": {
+        "wikipedia": "",
+        "myneta": "",
+        "prs_legislative": "",
+        "news_articles": [
+          { "title": "Big blow to AAP: Raghav Chadha, 6 Rajya Sabha MPs merge with BJP", "url": "https://www.india.com/news/india/raghav-chadha-ashok-mittal-sandeep-pathak-harbhajan-singh-rajinder-gupta-vikram-sahney-swati-maliwal-rajya-sabha-mps-merge-with-bjp-aap-prime-minister-narendra-modi-amit-shah-8392306/", "date": "2026-04-24" }
+        ]
+      },
+      "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-26", "is_featured": false, "is_trending": true, "data_completeness": 28 }
+    },
+    {
+      "id": "vikramjit-singh-sahney",
+      "slug": "vikramjit-singh-sahney",
+      "name": "Vikramjit Singh Sahney",
+      "name_hindi": "विक्रमजीत सिंह साहनी",
+      "photo_url": "",
+      "date_of_birth": "",
+      "age": 0,
+      "current_info": {
+        "party": "BJP",
+        "party_full_name": "Bharatiya Janata Party",
+        "party_color": "#FF9933",
+        "position": "Rajya Sabha MP",
+        "state": "Punjab",
+        "constituency": "Punjab (Rajya Sabha)",
+        "status": "active"
+      },
+      "political_timeline": [
+        {
+          "party": "AAP",
+          "party_full_name": "Aam Aadmi Party",
+          "party_color": "#0066CC",
+          "start_date": "2022",
+          "end_date": "2026-04-24",
+          "duration_years": 4,
+          "positions": [
+            { "title": "Rajya Sabha MP (Punjab)", "start": "2022", "end": "2026-04-24" }
+          ],
+          "notes": "Chairman of Sun Group. Padma Shri awardee. Prominent industrialist from Punjab."
+        },
+        {
+          "party": "BJP",
+          "party_full_name": "Bharatiya Janata Party",
+          "party_color": "#FF9933",
+          "start_date": "2026-04-24",
+          "end_date": "Present",
+          "duration_years": 0,
+          "positions": [
+            { "title": "Rajya Sabha MP", "start": "2026-04-24", "end": "Present" }
+          ],
+          "notes": "Defected with Raghav Chadha group on April 24, 2026."
+        }
+      ],
+      "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+      "education": { "has_data": false, "institutions": [] },
+      "career_before_politics": {
+        "has_data": true,
+        "positions": [
+          { "company": "Sun Group", "role": "Chairman", "year_start": "", "year_end": "2022" }
+        ]
+      },
+      "stats": { "total_party_switches": 1, "years_in_politics": 4, "total_positions_held": 1, "parliaments_served": 1 },
+      "social_media": { "twitter": "", "instagram": "", "facebook": "" },
+      "external_sources": {
+        "wikipedia": "",
+        "myneta": "",
+        "prs_legislative": "",
+        "news_articles": [
+          { "title": "Big blow to AAP: Raghav Chadha, 6 Rajya Sabha MPs merge with BJP", "url": "https://www.india.com/news/india/raghav-chadha-ashok-mittal-sandeep-pathak-harbhajan-singh-rajinder-gupta-vikram-sahney-swati-maliwal-rajya-sabha-mps-merge-with-bjp-aap-prime-minister-narendra-modi-amit-shah-8392306/", "date": "2026-04-24" }
+        ]
+      },
+      "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-26", "is_featured": false, "is_trending": true, "data_completeness": 28 }
+    }
+  ],
+  "platform_metadata": {
+    "total_politicians": 7,
+    "total_party_switches_tracked": 7,
+    "last_platform_update": "2026-04-26",
+    "next_additions": [
+      "Narendra Modi",
+      "Arvind Kejriwal",
+      "Rahul Gandhi",
+      "Amit Shah",
+      "Smriti Irani",
+      "Mamata Banerjee"
+    ]
+  }
+}
