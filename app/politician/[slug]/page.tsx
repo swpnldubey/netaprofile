@@ -15,6 +15,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Timeline from "@/components/Timeline";
 import StatementComparison from "@/components/StatementComparison";
+import ShareButtons from "@/components/ShareButtons";
 import { getPoliticianBySlug, getAllPoliticians } from "@/lib/politicians";
 import { formatDate } from "@/lib/utils";
 
@@ -345,24 +346,12 @@ export default async function PoliticianProfilePage({ params }: Props) {
             <p className="text-slate-400 text-sm mb-6">
               Help spread political transparency
             </p>
-            <div className="flex justify-center gap-3 flex-wrap">
-              <a
-                href={`https://twitter.com/intent/tweet?text=Check out ${politician.name}'s complete political journey on NetaProfile — ${politician.stats.total_party_switches} party switch(es) in ${politician.stats.years_in_politics} years&url=${encodeURIComponent(`https://netaprofile.vercel.app/politician/${politician.slug}`)}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-2 bg-blue-500 hover:bg-blue-600 text-white text-sm font-medium px-4 py-2 rounded-lg transition-colors"
-              >
-                Share on 𝕏
-              </a>
-              <a
-                href={`https://wa.me/?text=Check out ${politician.name}'s complete political journey — https://netaprofile.vercel.app/politician/${politician.slug}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-2 bg-green-600 hover:bg-green-700 text-white text-sm font-medium px-4 py-2 rounded-lg transition-colors"
-              >
-                Share on WhatsApp
-              </a>
-            </div>
+            <ShareButtons
+              name={politician.name}
+              slug={politician.slug}
+              partySwitches={politician.stats.total_party_switches}
+              yearsInPolitics={politician.stats.years_in_politics}
+            />
           </section>
 
           {/* Back to all */}
