@@ -34,7 +34,7 @@ export default function HomePage() {
               Transparent sources. From MPs to MLAs — full accountability.
             </p>
             <div className="flex justify-center mb-8">
-              <HomeSearchBar />
+              <HomeSearchBar politicians={all} />
             </div>
             <div className="flex items-center justify-center gap-8 text-sm text-slate-400">
               <span>
