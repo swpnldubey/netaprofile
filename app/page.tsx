@@ -3,7 +3,7 @@ import { ArrowRight, Users, GitBranch, Calendar } from "lucide-react";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import PoliticianCard from "@/components/PoliticianCard";
-import SearchBar from "@/components/SearchBar";
+import HomeSearchBar from "@/components/HomeSearchBar";
 import {
   getTrendingPoliticians,
   getAllPoliticians,
@@ -34,7 +34,7 @@ export default function HomePage() {
               Transparent sources. From MPs to MLAs — full accountability.
             </p>
             <div className="flex justify-center mb-8">
-              <SearchBar />
+              <HomeSearchBar />
             </div>
             <div className="flex items-center justify-center gap-8 text-sm text-slate-400">
               <span>
