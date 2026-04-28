@@ -1,4 +1,6 @@
-import data from "@/data/politicians.json";
+import fs from "fs";
+import path from "path";
+import platformData from "@/data/platform.json";
 
 export type Position = {
   title: string;
@@ -43,6 +45,13 @@ export type CareerPosition = {
   year_end: string;
 };
 
+export type Committee = {
+  name: string;
+  role: string;
+  year_start: string;
+  year_end: string;
+};
+
 export type NewsArticle = {
   title: string;
   url: string;
@@ -80,6 +89,7 @@ export type Politician = {
     has_data: boolean;
     positions: CareerPosition[];
   };
+  committees: Committee[];
   stats: {
     total_party_switches: number;
     years_in_politics: number;
@@ -95,6 +105,7 @@ export type Politician = {
     wikipedia: string;
     myneta: string;
     prs_legislative: string;
+    sansad_profile: string;
     news_articles: NewsArticle[];
   };
   metadata: {
@@ -106,41 +117,69 @@ export type Politician = {
   };
 };
 
-const politicians: Politician[] = data.politicians as Politician[];
+// ─── Data loading ────────────────────────────────────────────────────────────
+// Each politician lives in its own file: data/politicians/<slug>.json
+// Adding a new MP = drop a new JSON file in that folder. No other change needed.
+
+const POLITICIANS_DIR = path.join(process.cwd(), "data", "politicians");
+
+let _cache: Politician[] | null = null;
+
+function loadPoliticians(): Politician[] {
+  if (_cache) return _cache;
+
+  const files = fs
+    .readdirSync(POLITICIANS_DIR)
+    .filter((f) => f.endsWith(".json"))
+    .sort(); // alphabetical = consistent ordering
+
+  _cache = files.map((file) => {
+    const raw = fs.readFileSync(path.join(POLITICIANS_DIR, file), "utf-8");
+    return JSON.parse(raw) as Politician;
+  });
+
+  return _cache;
+}
+
+// ─── Public API ──────────────────────────────────────────────────────────────
 
 export function getAllPoliticians(): Politician[] {
-  return politicians;
+  return loadPoliticians();
 }
 
 export function getPoliticianBySlug(slug: string): Politician | undefined {
-  return politicians.find((p) => p.slug === slug);
+  return loadPoliticians().find((p) => p.slug === slug);
 }
 
 export function getFeaturedPoliticians(): Politician[] {
-  return politicians.filter((p) => p.metadata.is_featured);
+  return loadPoliticians().filter((p) => p.metadata.is_featured);
 }
 
 export function getTrendingPoliticians(): Politician[] {
-  return politicians.filter((p) => p.metadata.is_trending);
+  return loadPoliticians().filter((p) => p.metadata.is_trending);
 }
 
 export function getPoliticiansByParty(party: string): Politician[] {
-  return politicians.filter(
+  return loadPoliticians().filter(
     (p) => p.current_info.party.toLowerCase() === party.toLowerCase()
   );
 }
 
 export function getPoliticiansByState(state: string): Politician[] {
-  return politicians.filter(
+  return loadPoliticians().filter(
     (p) => p.current_info.state.toLowerCase() === state.toLowerCase()
   );
 }
 
 export function getPlatformStats() {
+  const all = loadPoliticians();
   return {
-    total_politicians: data.platform_metadata.total_politicians,
-    total_party_switches: data.platform_metadata.total_party_switches_tracked,
-    last_updated: data.platform_metadata.last_platform_update,
-    next_additions: data.platform_metadata.next_additions,
+    total_politicians: all.length,
+    total_party_switches: all.reduce(
+      (sum, p) => sum + p.stats.total_party_switches,
+      0
+    ),
+    last_updated: platformData.last_platform_update,
+    next_additions: platformData.next_additions,
   };
 }

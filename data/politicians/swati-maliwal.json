@@ -1,0 +1,120 @@
+{
+  "id": "swati-maliwal",
+  "slug": "swati-maliwal",
+  "name": "Swati Maliwal",
+  "name_hindi": "स्वाति मालीवाल",
+  "photo_url": "/images/politicians/swati-maliwal.png",
+  "date_of_birth": "1984-10-15",
+  "age": 41,
+  "current_info": {
+    "party": "BJP",
+    "party_full_name": "Bharatiya Janata Party",
+    "party_color": "#FF9933",
+    "position": "Rajya Sabha MP",
+    "state": "Delhi",
+    "constituency": "Delhi (Rajya Sabha)",
+    "status": "active"
+  },
+  "political_timeline": [
+    {
+      "party": "AAP",
+      "party_full_name": "Aam Aadmi Party",
+      "party_color": "#0066CC",
+      "start_date": "2015",
+      "end_date": "2026-04-24",
+      "duration_years": 11,
+      "positions": [
+        { "title": "Chairperson, Delhi Commission for Women (DCW)", "start": "2015", "end": "2024" },
+        { "title": "Rajya Sabha MP (Delhi)", "start": "2024", "end": "2026-04-24" }
+      ],
+      "notes": "Known for activism on women's rights. Had public fallout with Kejriwal after alleging assault at his residence in May 2024."
+    },
+    {
+      "party": "BJP",
+      "party_full_name": "Bharatiya Janata Party",
+      "party_color": "#FF9933",
+      "start_date": "2026-04-24",
+      "end_date": "Present",
+      "duration_years": 0,
+      "positions": [
+        { "title": "Rajya Sabha MP", "start": "2026-04-24", "end": "Present" }
+      ],
+      "notes": "Defected with Raghav Chadha group. Said 'AAP is no longer the same party, no one can work with Kejriwal.'"
+    }
+  ],
+  "statements": {
+    "has_contradictions": true,
+    "before_switch": [
+      {
+        "quote": "At his residence, on his signal, I was brutally beaten and treated with utmost indecency. When I tried to file an FIR, I was threatened and intimidated.",
+        "date": "2024-05-13",
+        "source_title": "Swati Maliwal assault case: Delhi court sends Bibhav Kumar to police custody",
+        "source_url": "https://www.indiatvnews.com/delhi/swati-maliwal-assault-case-live-updates-delhi-police-investigation-cm-arvind-kejriwal-pa-bibhav-kumar-atishi-aam-aadmi-party-sanjay-singh-2024-05-18-932029",
+        "video_url": "",
+        "context": "Maliwal alleged she was assaulted by Bibhav Kumar, Kejriwal's PA, at the CM residence on May 13, 2024.",
+        "category": "criticism",
+        "confidence": "high"
+      }
+    ],
+    "after_switch": [
+      {
+        "quote": "AAP is no longer the same party. No one can work with Kejriwal.",
+        "date": "2026-04-25",
+        "source_title": "AAP no longer the same party, no one can work with Kejriwal: Swati Maliwal",
+        "source_url": "https://www.business-standard.com/india-news/aap-no-longer-the-same-party-no-one-can-work-with-kejriwal-swati-maliwal-126042500482_1.html",
+        "video_url": "",
+        "context": "Statement after joining BJP on April 24-25, 2026.",
+        "category": "general",
+        "confidence": "high"
+      },
+      {
+        "quote": "I joined the BJP not under any compulsion, but because I believe in the leadership of PM Modi. I urge all those who want to do constructive politics to join the BJP.",
+        "date": "2026-04-24",
+        "source_title": "Kejriwal is corrupt and liar: Swati Maliwal",
+        "source_url": "https://www.prokerala.com/news/articles/a1755120.html",
+        "video_url": "",
+        "context": "Speaking to ANI after joining the BJP.",
+        "category": "general",
+        "confidence": "high"
+      },
+      {
+        "quote": "Kejriwal is anti-women, corrupt, and known for gundagardi. The AAP has completely changed — it is now known for lies, corruption and hooliganism.",
+        "date": "2026-04-25",
+        "source_title": "Anti-women, corrupt, gundagardi: Rajya Sabha MP Swati Maliwal slams Kejriwal",
+        "source_url": "https://www.aninews.in/news/national/politics/anti-women-corrupt-gundagardi-rajya-sabha-mp-swati-maliwal-slams-kejriwal20260425134109/",
+        "video_url": "",
+        "context": "Press statement to ANI on April 25, 2026.",
+        "category": "criticism",
+        "confidence": "high"
+      }
+    ]
+  },
+  "education": {
+    "has_data": true,
+    "institutions": [
+      { "name": "Amity International School", "degree": "Schooling", "location": "Delhi", "year_start": "", "year_end": "2002" },
+      { "name": "JSS Academy of Technical Education", "degree": "B.Tech — Information Technology", "location": "Noida, UP", "year_start": "2002", "year_end": "2006" }
+    ]
+  },
+  "career_before_politics": {
+    "has_data": true,
+    "positions": [
+      { "company": "Parivartan NGO", "role": "Social Activist", "year_start": "2006", "year_end": "2006" },
+      { "company": "Public Cause Research Foundation (PCRF)", "role": "Development Worker — Women Empowerment", "year_start": "2006", "year_end": "2013" },
+      { "company": "Office of CM Arvind Kejriwal", "role": "Advisor — Public Grievances (Janta Samwad)", "year_start": "2013", "year_end": "2015" }
+    ]
+  },
+  "committees": [],
+  "stats": { "total_party_switches": 1, "years_in_politics": 11, "total_positions_held": 2, "parliaments_served": 1 },
+  "social_media": { "twitter": "@SwatiJaiHind", "instagram": "@swati_maliwal", "facebook": "" },
+  "external_sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Swati_Maliwal",
+    "myneta": "",
+    "prs_legislative": "",
+    "sansad_profile": "",
+    "news_articles": [
+      { "title": "AAP no longer the same party, no one can work with Kejriwal: Swati Maliwal", "url": "https://www.business-standard.com/india-news/aap-no-longer-the-same-party-no-one-can-work-with-kejriwal-swati-maliwal-126042500482_1.html", "date": "2026-04-25" }
+    ]
+  },
+  "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-29", "is_featured": false, "is_trending": true, "data_completeness": 68 }
+}

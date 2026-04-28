@@ -1,0 +1,109 @@
+{
+  "id": "sandeep-pathak",
+  "slug": "sandeep-pathak",
+  "name": "Sandeep Pathak",
+  "name_hindi": "संदीप पाठक",
+  "photo_url": "/images/politicians/sandeep-pathak.png",
+  "date_of_birth": "1979-10-04",
+  "age": 46,
+  "current_info": {
+    "party": "BJP",
+    "party_full_name": "Bharatiya Janata Party",
+    "party_color": "#FF9933",
+    "position": "Rajya Sabha MP",
+    "state": "Punjab",
+    "constituency": "Punjab (Rajya Sabha)",
+    "status": "active"
+  },
+  "political_timeline": [
+    {
+      "party": "AAP",
+      "party_full_name": "Aam Aadmi Party",
+      "party_color": "#0066CC",
+      "start_date": "2022",
+      "end_date": "2026-04-24",
+      "duration_years": 4,
+      "positions": [
+        { "title": "Rajya Sabha MP (Punjab)", "start": "2022-04", "end": "2026-04-24" },
+        { "title": "National General Secretary (Organisation)", "start": "2022-12-13", "end": "2026-04-24" }
+      ],
+      "notes": "Former IIT Delhi professor and Cambridge PhD. Key architect of AAP's Punjab 2022 election victory."
+    },
+    {
+      "party": "BJP",
+      "party_full_name": "Bharatiya Janata Party",
+      "party_color": "#FF9933",
+      "start_date": "2026-04-24",
+      "end_date": "Present",
+      "duration_years": 0,
+      "positions": [
+        { "title": "Rajya Sabha MP", "start": "2026-04-24", "end": "Present" }
+      ],
+      "notes": "Defected with Raghav Chadha and 5 other AAP MPs on April 24, 2026."
+    }
+  ],
+  "statements": {
+    "has_contradictions": true,
+    "before_switch": [
+      {
+        "quote": "We will go after the BJP everywhere.",
+        "date": "2023-04-01",
+        "source_title": "AAP's Sandeep Pathak: 'We will go after the BJP everywhere'",
+        "source_url": "https://www.theweek.in/theweek/current/2023/04/01/aap-national-general-secretary-sandeep-pathak-interview.html",
+        "video_url": "",
+        "context": "Interview with The Week as AAP National General Secretary (Organisation).",
+        "category": "criticism",
+        "confidence": "high"
+      },
+      {
+        "quote": "Most people believe the BJP is not doing the right thing. By doing this, the BJP is helping AAP's political prospects. The BJP devised a plan to trap us in corruption allegations.",
+        "date": "2023-04-01",
+        "source_title": "AAP's Sandeep Pathak: 'We will go after the BJP everywhere'",
+        "source_url": "https://www.theweek.in/theweek/current/2023/04/01/aap-national-general-secretary-sandeep-pathak-interview.html",
+        "video_url": "",
+        "context": "Same interview — Pathak arguing that BJP's attacks on AAP via corruption cases were politically motivated and backfiring.",
+        "category": "criticism",
+        "confidence": "high"
+      }
+    ],
+    "after_switch": [
+      {
+        "quote": "For 10 years, I remained associated with this party. And today, I am parting ways with the Aam Aadmi Party. I am giving up all my positions in AAP.",
+        "date": "2026-04-24",
+        "source_title": "Giving up all my positions in AAP: Rajya Sabha MP Sandeep Pathak announces decision to join BJP",
+        "source_url": "https://aninews.in/news/national/politics/giving-up-all-my-positions-in-aap-rajya-sabha-mp-sandeep-pathak-announces-decision-to-join-bjp20260424181932/",
+        "video_url": "",
+        "context": "Press conference on April 24, 2026 announcing his exit from AAP and merger with BJP.",
+        "category": "general",
+        "confidence": "high"
+      }
+    ]
+  },
+  "education": {
+    "has_data": true,
+    "institutions": [
+      { "name": "University of Cambridge", "degree": "PhD — High Temperature Superconducting Materials", "location": "Cambridge, UK", "year_start": "", "year_end": "" },
+      { "name": "University of Oxford", "degree": "Post-Doctoral Research", "location": "Oxford, UK", "year_start": "", "year_end": "" },
+      { "name": "MIT", "degree": "Post-Doctoral Research", "location": "Cambridge, USA", "year_start": "", "year_end": "" }
+    ]
+  },
+  "career_before_politics": {
+    "has_data": true,
+    "positions": [
+      { "company": "IIT Delhi", "role": "Associate Professor, Dept. of Energy Science and Engineering", "year_start": "", "year_end": "2020" }
+    ]
+  },
+  "committees": [],
+  "stats": { "total_party_switches": 1, "years_in_politics": 4, "total_positions_held": 2, "parliaments_served": 1 },
+  "social_media": { "twitter": "@SandeepPathak04", "instagram": "", "facebook": "" },
+  "external_sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandeep_Pathak",
+    "myneta": "https://www.myneta.info/rajsab09aff/candidate.php?candidate_id=936",
+    "prs_legislative": "https://prsindia.org/mptrack/rajya-sabha/sandeep-kumar-pathak",
+    "sansad_profile": "",
+    "news_articles": [
+      { "title": "Big blow to AAP: Raghav Chadha, 6 Rajya Sabha MPs merge with BJP. Who are they?", "url": "https://www.india.com/news/india/raghav-chadha-ashok-mittal-sandeep-pathak-harbhajan-singh-rajinder-gupta-vikram-sahney-swati-maliwal-rajya-sabha-mps-merge-with-bjp-aap-prime-minister-narendra-modi-amit-shah-8392306/", "date": "2026-04-24" }
+    ]
+  },
+  "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-29", "is_featured": false, "is_trending": true, "data_completeness": 74 }
+}

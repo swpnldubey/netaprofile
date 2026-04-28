@@ -1,0 +1,99 @@
+{
+  "id": "ashok-mittal",
+  "slug": "ashok-mittal",
+  "name": "Ashok Mittal",
+  "name_hindi": "अशोक मित्तल",
+  "photo_url": "/images/politicians/ashok-mittal.png",
+  "date_of_birth": "1964-09-10",
+  "age": 61,
+  "current_info": {
+    "party": "BJP",
+    "party_full_name": "Bharatiya Janata Party",
+    "party_color": "#FF9933",
+    "position": "Rajya Sabha MP",
+    "state": "Punjab",
+    "constituency": "Punjab (Rajya Sabha)",
+    "status": "active"
+  },
+  "political_timeline": [
+    {
+      "party": "AAP",
+      "party_full_name": "Aam Aadmi Party",
+      "party_color": "#0066CC",
+      "start_date": "2022",
+      "end_date": "2026-04-24",
+      "duration_years": 4,
+      "positions": [
+        { "title": "Rajya Sabha MP (Punjab)", "start": "2022", "end": "2026-04-24" },
+        { "title": "Deputy Leader, AAP in Rajya Sabha", "start": "2026-04-02", "end": "2026-04-24" }
+      ],
+      "notes": "Founder of Lovely Professional University. Was made AAP deputy RS leader on April 2, 2026 — the same day Raghav Chadha was removed."
+    },
+    {
+      "party": "BJP",
+      "party_full_name": "Bharatiya Janata Party",
+      "party_color": "#FF9933",
+      "start_date": "2026-04-24",
+      "end_date": "Present",
+      "duration_years": 0,
+      "positions": [
+        { "title": "Rajya Sabha MP", "start": "2026-04-24", "end": "Present" }
+      ],
+      "notes": "One of three MPs (with Chadha and Pathak) who announced the defection at the April 24 press conference."
+    }
+  ],
+  "statements": {
+    "has_contradictions": true,
+    "before_switch": [
+      {
+        "quote": "The Centre's attempt to control Chandigarh's administration is an attack on Punjab's rights and federalism. This is unacceptable.",
+        "date": "2023",
+        "source_title": "Ashok Kumar Mittal | PRSIndia — Parliamentary Activity",
+        "source_url": "https://prsindia.org/mptrack/rajya-sabha/ashok-kumar-mittal",
+        "video_url": "",
+        "context": "Mittal was a visible AAP voice in the Rajya Sabha, regularly criticising the BJP-led Centre over its administrative control of Chandigarh.",
+        "category": "criticism",
+        "confidence": "medium"
+      }
+    ],
+    "after_switch": [
+      {
+        "quote": "We have decided that we, the two-thirds members belonging to the AAP in Rajya Sabha, exercise the provisions of the Constitution of India and merge ourselves with the BJP.",
+        "date": "2026-04-24",
+        "source_title": "Raghav Chadha, Ashok Mittal and Sandeep Pathak quit AAP in big jolt to Kejriwal, join BJP",
+        "source_url": "https://www.indiatvnews.com/news/india/raghav-chadha-ashok-mittal-and-sandeep-pathak-quit-aap-in-big-jolt-to-kejriwal-join-bjp-2026-04-24-1038756",
+        "video_url": "",
+        "context": "Joint press conference statement on April 24, 2026.",
+        "category": "general",
+        "confidence": "high"
+      }
+    ]
+  },
+  "education": {
+    "has_data": true,
+    "institutions": [
+      { "name": "Guru Nanak Dev University", "degree": "LL.B — Law", "location": "Amritsar, Punjab", "year_start": "1982", "year_end": "1986" },
+      { "name": "Atal Bihari Vajpayee Vishwavidyalaya", "degree": "Honoris Causa Doctorate", "location": "Bilaspur, CG", "year_start": "2022", "year_end": "2022" }
+    ]
+  },
+  "career_before_politics": {
+    "has_data": true,
+    "positions": [
+      { "company": "Lovely Group", "role": "Founder — Education & Business Conglomerate", "year_start": "2001", "year_end": "2022" },
+      { "company": "Lovely Professional University", "role": "Founder & Chancellor (India's largest private university by enrolment)", "year_start": "2005", "year_end": "2022" }
+    ]
+  },
+  "committees": [],
+  "stats": { "total_party_switches": 1, "years_in_politics": 4, "total_positions_held": 2, "parliaments_served": 1 },
+  "social_media": { "twitter": "@DrAshokKMittal", "instagram": "@dr.ashokkumarmittal", "facebook": "" },
+  "external_sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashok_Kumar_Mittal",
+    "myneta": "",
+    "prs_legislative": "",
+    "sansad_profile": "",
+    "news_articles": [
+      { "title": "Big blow to AAP: Raghav Chadha, 6 Rajya Sabha MPs merge with BJP", "url": "https://www.india.com/news/india/raghav-chadha-ashok-mittal-sandeep-pathak-harbhajan-singh-rajinder-gupta-vikram-sahney-swati-maliwal-rajya-sabha-mps-merge-with-bjp-aap-prime-minister-narendra-modi-amit-shah-8392306/", "date": "2026-04-24" }
+    ]
+  },
+  "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-29", "is_featured": false, "is_trending": true, "data_completeness": 50 }
+}

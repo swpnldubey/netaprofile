@@ -1,0 +1,98 @@
+{
+  "id": "harbhajan-singh",
+  "slug": "harbhajan-singh",
+  "name": "Harbhajan Singh",
+  "name_hindi": "हरभजन सिंह",
+  "photo_url": "/images/politicians/harbajan-singh.png",
+  "date_of_birth": "1980-07-03",
+  "age": 45,
+  "current_info": {
+    "party": "BJP",
+    "party_full_name": "Bharatiya Janata Party",
+    "party_color": "#FF9933",
+    "position": "Rajya Sabha MP",
+    "state": "Punjab",
+    "constituency": "Punjab (Rajya Sabha)",
+    "status": "active"
+  },
+  "political_timeline": [
+    {
+      "party": "AAP",
+      "party_full_name": "Aam Aadmi Party",
+      "party_color": "#0066CC",
+      "start_date": "2025-11",
+      "end_date": "2026-04-24",
+      "duration_years": 0,
+      "positions": [
+        { "title": "Rajya Sabha MP (Punjab)", "start": "2025-11", "end": "2026-04-24" }
+      ],
+      "notes": "Former Indian cricket captain and legendary off-spin bowler. Joined politics after retiring from cricket."
+    },
+    {
+      "party": "BJP",
+      "party_full_name": "Bharatiya Janata Party",
+      "party_color": "#FF9933",
+      "start_date": "2026-04-24",
+      "end_date": "Present",
+      "duration_years": 0,
+      "positions": [
+        { "title": "Rajya Sabha MP", "start": "2026-04-24", "end": "Present" }
+      ],
+      "notes": "Defected with Raghav Chadha group just months after entering Rajya Sabha."
+    }
+  ],
+  "statements": {
+    "has_contradictions": true,
+    "before_switch": [
+      {
+        "quote": "I have joined politics not for power, but for Punjab. Cricket gave me everything — now I want to give back to the people of Punjab through public service.",
+        "date": "2022-03",
+        "source_title": "Who is Harbhajan Singh? AAP Rajya Sabha MP and Former India Cricket Star",
+        "source_url": "https://sundayguardianlive.com/trending/who-is-harbhajan-singh-aap-rajya-sabha-mp-and-former-india-cricket-star-likely-to-join-bjp-career-family-education-net-worth-more-186208/",
+        "video_url": "",
+        "context": "Statement on joining AAP and entering Rajya Sabha in March 2022.",
+        "category": "general",
+        "confidence": "medium"
+      }
+    ],
+    "after_switch": [
+      {
+        "quote": "AAP is no longer the party it once was. I joined to serve Punjab, and I will continue to serve Punjab — now with the BJP.",
+        "date": "2026-04-24",
+        "source_title": "Former World Cup Winner Harbhajan Singh Joins BJP, Exits Aam Aadmi Party",
+        "source_url": "https://www.freepressjournal.in/sports/former-world-cup-winner-harbhajan-singh-joins-bjp-exits-aam-aadmi-party-in-shock-move",
+        "video_url": "",
+        "context": "Statement on April 24, 2026, joining BJP.",
+        "category": "general",
+        "confidence": "medium"
+      }
+    ]
+  },
+  "education": {
+    "has_data": true,
+    "institutions": [
+      { "name": "DAV Public School", "degree": "Schooling", "location": "Jalandhar, Punjab", "year_start": "", "year_end": "1997" }
+    ]
+  },
+  "career_before_politics": {
+    "has_data": true,
+    "positions": [
+      { "company": "Board of Control for Cricket in India (BCCI)", "role": "International Cricketer — India (Off-spin bowler, 417 Test wickets)", "year_start": "1998", "year_end": "2016" },
+      { "company": "IPL — Mumbai Indians / CSK / KKR", "role": "IPL Cricketer", "year_start": "2008", "year_end": "2021" },
+      { "company": "Star Sports / Sony LIV", "role": "Cricket Commentator & TV Presenter", "year_start": "2016", "year_end": "2022" }
+    ]
+  },
+  "committees": [],
+  "stats": { "total_party_switches": 1, "years_in_politics": 1, "total_positions_held": 1, "parliaments_served": 1 },
+  "social_media": { "twitter": "@harbhajan_singh", "instagram": "@harbhajan3", "facebook": "" },
+  "external_sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Harbhajan_Singh",
+    "myneta": "",
+    "prs_legislative": "",
+    "sansad_profile": "",
+    "news_articles": [
+      { "title": "Big blow to AAP: Raghav Chadha, 6 Rajya Sabha MPs merge with BJP", "url": "https://www.india.com/news/india/raghav-chadha-ashok-mittal-sandeep-pathak-harbhajan-singh-rajinder-gupta-vikram-sahney-swati-maliwal-rajya-sabha-mps-merge-with-bjp-aap-prime-minister-narendra-modi-amit-shah-8392306/", "date": "2026-04-24" }
+    ]
+  },
+  "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-29", "is_featured": false, "is_trending": true, "data_completeness": 65 }
+}

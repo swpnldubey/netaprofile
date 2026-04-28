@@ -1,0 +1,171 @@
+{
+  "id": "raghav-chadha",
+  "slug": "raghav-chadha",
+  "name": "Raghav Chadha",
+  "name_hindi": "राघव चड्ढा",
+  "photo_url": "/images/politicians/raghav-chada.jpg",
+  "date_of_birth": "1988-11-11",
+  "age": 37,
+  "current_info": {
+    "party": "BJP",
+    "party_full_name": "Bharatiya Janata Party",
+    "party_color": "#FF9933",
+    "position": "Rajya Sabha MP",
+    "state": "Punjab",
+    "constituency": "Punjab (Rajya Sabha)",
+    "status": "active"
+  },
+  "political_timeline": [
+    {
+      "party": "AAP",
+      "party_full_name": "Aam Aadmi Party",
+      "party_color": "#0066CC",
+      "start_date": "2012",
+      "end_date": "2026-04-24",
+      "duration_years": 14,
+      "positions": [
+        { "title": "National Treasurer", "start": "2015", "end": "2022" },
+        { "title": "National Spokesperson", "start": "2015", "end": "2026-04-24" },
+        { "title": "MLA – Rajinder Nagar, Delhi", "start": "2020", "end": "2022" },
+        { "title": "Vice Chairman, Delhi Jal Board", "start": "2020", "end": "2022" },
+        { "title": "Rajya Sabha MP (Punjab)", "start": "2022-03-21", "end": "2026-04-24" },
+        { "title": "Leader, AAP in Rajya Sabha", "start": "2023", "end": "2026-04-02" }
+      ],
+      "notes": "Joined during India Against Corruption movement in 2011–12. Became youngest Rajya Sabha MP ever at age 33. Removed as RS deputy leader on April 2, 2026 — weeks before defection."
+    },
+    {
+      "party": "BJP",
+      "party_full_name": "Bharatiya Janata Party",
+      "party_color": "#FF9933",
+      "start_date": "2026-04-24",
+      "end_date": "Present",
+      "duration_years": 0,
+      "positions": [
+        { "title": "Rajya Sabha MP", "start": "2026-04-24", "end": "Present" }
+      ],
+      "notes": "Defected with 6 other AAP Rajya Sabha MPs using constitutional merger provision (was 7 of 10 AAP RS MPs — crossed 2/3 threshold). Deleted all anti-BJP posts from X before announcing switch."
+    }
+  ],
+  "statements": {
+    "has_contradictions": true,
+    "before_switch": [
+      {
+        "quote": "We in India today pay taxes like England to get services like Somalia.",
+        "date": "2024-07-25",
+        "source_title": "Raghav Chadha Full Speech in Rajya Sabha on Union Budget 2024",
+        "source_url": "https://www.youtube.com/watch?v=jp7-65NrHnM",
+        "video_url": "https://www.youtube.com/watch?v=fdBTG43aypA",
+        "context": "Rajya Sabha speech during Union Budget 2024–25 discussion.",
+        "category": "criticism",
+        "confidence": "high"
+      },
+      {
+        "quote": "There is a tax on waking up, there is a tax on sleeping and crying… there is a tax on books and ink, on vegetables, cars, houses, and on buying and selling.",
+        "date": "2024-07-25",
+        "source_title": "Best Of Raghav Chadha's Speech In Parliament On Budget 2024",
+        "source_url": "https://www.youtube.com/watch?v=fdBTG43aypA",
+        "video_url": "https://www.youtube.com/watch?v=fdBTG43aypA",
+        "context": "Same Rajya Sabha Budget speech — mocking the breadth of GST and indirect taxes under the BJP-led government.",
+        "category": "criticism",
+        "confidence": "high"
+      },
+      {
+        "quote": "Mera ye manana hai ki BJP anpadh gundon ki party hai. BJP ke log gundagardi karte hain aur unko badhava dete hain. (I believe BJP is a party of illiterate goons. BJP people indulge in hooliganism and they patronize it.)",
+        "date": "2022-06-02",
+        "source_title": "Unfiltered By Samdish ft. Raghav Chadha | Member of Parliament, Aam Aadmi Party | Full Video",
+        "source_url": "https://www.ibtimes.co.in/bjp-anpadh-gundon-ki-party-hai-old-clip-raghav-chadha-slamming-bjp-resurfaces-after-he-quits-901478",
+        "video_url": "https://www.youtube.com/watch?v=j-LLw2E1X4A",
+        "context": "Interview with YouTuber Samdish Bhatia (Unfiltered by Samdish), recorded May 15, 2022, published June 2, 2022.",
+        "category": "criticism",
+        "confidence": "high"
+      },
+      {
+        "quote": "The BJP government has weaponised investigative agencies like the ED and CBI against opposition leaders. This is an assault on democracy.",
+        "date": "2023",
+        "source_title": "From Critic to Convert: Raghav Chadha Leads Dramatic Rajya Sabha Defection To BJP",
+        "source_url": "https://www.outlookindia.com/national/from-critic-to-convert-raghav-chadha-leads-dramatic-rajya-sabha-defection-to-bjp",
+        "video_url": "",
+        "context": "Consistent theme across multiple Rajya Sabha interventions during 2022–24.",
+        "category": "criticism",
+        "confidence": "medium"
+      }
+    ],
+    "after_switch": [
+      {
+        "quote": "The Aam Aadmi Party, which I nurtured with my blood and sweat and to which I gave 15 years of my youth, has now completely deviated from its principles, values, and core morals.",
+        "date": "2026-04-24",
+        "source_title": "Major blow to AAP: Raghav Chadha-led group of 7 MPs joins BJP, cites 'principles'",
+        "source_url": "https://www.tribuneindia.com/news/india/major-blow-to-aap-raghav-chadha-led-group-of-7-mps-joins-bjp-cites-principles/",
+        "video_url": "",
+        "context": "Press conference in Delhi on April 24, 2026 announcing BJP merger.",
+        "category": "general",
+        "confidence": "high"
+      },
+      {
+        "quote": "For the past few years, I felt like the right man in the wrong party. So today, we announce that I am distancing myself from the AAP and getting close to the public.",
+        "date": "2026-04-24",
+        "source_title": "Raghav Chadha joins BJP; says he felt like 'right man in wrong party'",
+        "source_url": "https://www.theweek.in/news/india/2026/04/24/raghav-chadda-joins-bjp-says-he-felt-like-right-man-in-wrong-party-in-the-aap.html",
+        "video_url": "",
+        "context": "Same press conference on April 24, 2026.",
+        "category": "general",
+        "confidence": "high"
+      },
+      {
+        "quote": "I am telling you the real reason as to why I distanced myself from party activities. I did not want to be a part of their crimes.",
+        "date": "2026-04-24",
+        "source_title": "Raghav Chadha, Ashok Mittal and Sandeep Pathak quit AAP in big jolt to Kejriwal, join BJP",
+        "source_url": "https://www.indiatvnews.com/news/india/raghav-chadha-ashok-mittal-and-sandeep-pathak-quit-aap-in-big-jolt-to-kejriwal-join-bjp-2026-04-24-1038756",
+        "video_url": "",
+        "context": "Same press conference on April 24, 2026.",
+        "category": "general",
+        "confidence": "high"
+      }
+    ]
+  },
+  "education": {
+    "has_data": true,
+    "institutions": [
+      { "name": "Modern School", "degree": "Secondary Education", "location": "New Delhi", "year_start": "", "year_end": "" },
+      { "name": "University of Delhi", "degree": "Bachelor of Commerce (B.Com)", "location": "New Delhi", "year_start": "", "year_end": "2009" },
+      { "name": "Institute of Chartered Accountants of India (ICAI)", "degree": "Chartered Accountancy (CA)", "location": "India", "year_start": "", "year_end": "2011" }
+    ]
+  },
+  "career_before_politics": {
+    "has_data": true,
+    "positions": [
+      { "company": "Deloitte", "role": "Chartered Accountant", "year_start": "2011", "year_end": "2012" },
+      { "company": "Grant Thornton", "role": "Chartered Accountant", "year_start": "2011", "year_end": "2012" }
+    ]
+  },
+  "committees": [],
+  "stats": {
+    "total_party_switches": 1,
+    "years_in_politics": 14,
+    "total_positions_held": 6,
+    "parliaments_served": 1
+  },
+  "social_media": {
+    "twitter": "@raghav_chadha",
+    "instagram": "@raghavchadha88",
+    "facebook": "raghavchadhaca"
+  },
+  "external_sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Raghav_Chadha",
+    "myneta": "https://www.myneta.info/rajsab09aff/candidate.php?candidate_id=942",
+    "prs_legislative": "https://prsindia.org/mptrack/rajya-sabha/raghav-chadha",
+    "sansad_profile": "https://sansad.in/rs/members/biographical-information?member=Raghav+Chadha",
+    "news_articles": [
+      { "title": "Body blow to AAP as Raghav Chadha, 6 others quit to join BJP", "url": "https://theprint.in/politics/body-blow-to-aap-as-raghav-chadha-6-others-quit-to-join-bjp-and-there-are-others/2913222/", "date": "2026-04-24" },
+      { "title": "From Critic to Convert: Raghav Chadha Leads Dramatic Rajya Sabha Defection To BJP", "url": "https://www.outlookindia.com/national/from-critic-to-convert-raghav-chadha-leads-dramatic-rajya-sabha-defection-to-bjp", "date": "2026-04-24" },
+      { "title": "Raghav Chadha has deleted all anti-BJP, anti-Modi posts: AAP hits back", "url": "https://www.tribuneindia.com/news/delhi/raghav-chadha-has-deleted-all-anti-bjp-anti-modi-posts-aap-hits-back-again/", "date": "2026-04-25" }
+    ]
+  },
+  "metadata": {
+    "added_date": "2026-04-26",
+    "last_updated": "2026-04-29",
+    "is_featured": true,
+    "is_trending": true,
+    "data_completeness": 72
+  }
+}
