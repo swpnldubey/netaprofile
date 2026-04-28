@@ -1,0 +1,59 @@
+{
+  "id": "sudha-murty",
+  "slug": "sudha-murty",
+  "name": "Sudha Murty",
+  "name_hindi": "सुधा मूर्ति",
+  "photo_url": "",
+  "date_of_birth": "1950-08-19",
+  "age": 75,
+  "current_info": {
+    "party": "NOM",
+    "party_full_name": "Nominated",
+    "party_color": "#718096",
+    "position": "Rajya Sabha MP (Nominated)",
+    "state": "Nominated",
+    "constituency": "Nominated by President",
+    "status": "active"
+  },
+  "political_timeline": [
+    {
+      "party": "NOM",
+      "party_full_name": "Nominated",
+      "party_color": "#718096",
+      "start_date": "2024-03-08",
+      "end_date": "Present",
+      "duration_years": 2,
+      "positions": [
+        { "title": "Nominated Member of Parliament, Rajya Sabha", "start": "2024-03-08", "end": "Present" }
+      ],
+      "notes": "Nominated by President Droupadi Murmu on International Women's Day (March 8, 2024). First female engineer at TELCO (now Tata Motors). Co-founded Infosys with her husband Narayana Murty. Ran Infosys Foundation for 25 years. Prolific Kannada & English author with 50+ books."
+    }
+  ],
+  "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+  "education": {
+    "has_data": true,
+    "institutions": [
+      { "name": "BVB College of Engineering & Technology (now KLE Tech University)", "degree": "BE — Electrical & Electronics Engineering (Gold Medal)", "location": "Hubballi, Karnataka", "year_start": "1968", "year_end": "1972" },
+      { "name": "Indian Institute of Science (IISc)", "degree": "ME — Computer Science", "location": "Bengaluru, Karnataka", "year_start": "1972", "year_end": "1974" }
+    ]
+  },
+  "career_before_politics": {
+    "has_data": true,
+    "positions": [
+      { "company": "TELCO (Tata Engineering & Locomotive Company)", "role": "Development Engineer — First Female Engineer at TELCO", "year_start": "1974", "year_end": "1977" },
+      { "company": "Walchand Group of Industries", "role": "Senior Systems Analyst", "year_start": "1977", "year_end": "1983" },
+      { "company": "Infosys Foundation", "role": "Founder Chairperson — Philanthropy & Social Work", "year_start": "1996", "year_end": "2022" }
+    ]
+  },
+  "committees": [],
+  "stats": { "total_party_switches": 0, "years_in_politics": 2, "total_positions_held": 1, "parliaments_served": 1 },
+  "social_media": { "twitter": "", "instagram": "", "facebook": "" },
+  "external_sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sudha_Murty",
+    "myneta": "",
+    "prs_legislative": "https://prsindia.org/mptrack/rajya-sabha/sudha-murty",
+    "sansad_profile": "https://sansad.in/rs/members/biographical-information?member=Sudha+Murty",
+    "news_articles": []
+  },
+  "metadata": { "added_date": "2026-04-29", "last_updated": "2026-04-29", "is_featured": false, "is_trending": false, "data_completeness": 80 }
+}

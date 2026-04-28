@@ -1,0 +1,59 @@
+{
+  "id": "sonia-gandhi",
+  "slug": "sonia-gandhi",
+  "name": "Sonia Gandhi",
+  "name_hindi": "सोनिया गांधी",
+  "photo_url": "",
+  "date_of_birth": "1946-12-09",
+  "age": 79,
+  "current_info": {
+    "party": "INC",
+    "party_full_name": "Indian National Congress",
+    "party_color": "#1a9fd4",
+    "position": "Rajya Sabha MP",
+    "state": "Rajasthan",
+    "constituency": "Rajasthan (Rajya Sabha)",
+    "status": "active"
+  },
+  "political_timeline": [
+    {
+      "party": "INC",
+      "party_full_name": "Indian National Congress",
+      "party_color": "#1a9fd4",
+      "start_date": "1997",
+      "end_date": "Present",
+      "duration_years": 29,
+      "positions": [
+        { "title": "President, Indian National Congress", "start": "1998", "end": "2017" },
+        { "title": "Lok Sabha MP — Amethi, UP", "start": "1999", "end": "2024" },
+        { "title": "Chairperson, UPA (United Progressive Alliance)", "start": "2004", "end": "2014" },
+        { "title": "President, Indian National Congress (2nd term)", "start": "2019", "end": "2022" },
+        { "title": "Rajya Sabha MP (Rajasthan)", "start": "2024-04", "end": "Present" }
+      ],
+      "notes": "Born Edvige Antonia Albina Maino in Lusiana, Italy. Met Rajiv Gandhi at Cambridge. Led Congress to power in 2004 and 2009. Declined PM post in 2004, making Manmohan Singh PM. Shifted from Lok Sabha to Rajya Sabha in 2024, vacating the seat for Rahul Gandhi's return to Parliament."
+    }
+  ],
+  "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+  "education": {
+    "has_data": true,
+    "institutions": [
+      { "name": "Catholic School", "degree": "Primary Education", "location": "Orbassano, Italy", "year_start": "", "year_end": "" },
+      { "name": "Bell Educational Trust's Language School", "degree": "English Language Course", "location": "Cambridge, UK", "year_start": "1964", "year_end": "1965" }
+    ]
+  },
+  "career_before_politics": {
+    "has_data": false,
+    "positions": []
+  },
+  "committees": [],
+  "stats": { "total_party_switches": 0, "years_in_politics": 29, "total_positions_held": 5, "parliaments_served": 2 },
+  "social_media": { "twitter": "", "instagram": "", "facebook": "" },
+  "external_sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
+    "myneta": "https://www.myneta.info/rajsab09aff/candidate.php?candidate_id=1032",
+    "prs_legislative": "https://prsindia.org/mptrack/rajya-sabha/sonia-gandhi",
+    "sansad_profile": "https://sansad.in/rs/members/biographical-information?member=Sonia+Gandhi",
+    "news_articles": []
+  },
+  "metadata": { "added_date": "2026-04-29", "last_updated": "2026-04-29", "is_featured": false, "is_trending": false, "data_completeness": 72 }
+}

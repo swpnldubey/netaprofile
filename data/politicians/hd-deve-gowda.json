@@ -1,0 +1,72 @@
+{
+  "id": "hd-deve-gowda",
+  "slug": "hd-deve-gowda",
+  "name": "H.D. Deve Gowda",
+  "name_hindi": "एच.डी. देवेगौड़ा",
+  "photo_url": "",
+  "date_of_birth": "1933-05-18",
+  "age": 92,
+  "current_info": {
+    "party": "JDS",
+    "party_full_name": "Janata Dal (Secular)",
+    "party_color": "#006400",
+    "position": "Rajya Sabha MP · Founder & Patriarch, JD(S)",
+    "state": "Karnataka",
+    "constituency": "Karnataka (Rajya Sabha)",
+    "status": "active"
+  },
+  "political_timeline": [
+    {
+      "party": "JNP",
+      "party_full_name": "Janata Party / Janata Dal",
+      "party_color": "#228B22",
+      "start_date": "1962",
+      "end_date": "1999",
+      "duration_years": 37,
+      "positions": [
+        { "title": "MLA, Karnataka Legislative Assembly (multiple terms)", "start": "1962", "end": "1994" },
+        { "title": "Chief Minister of Karnataka", "start": "1994-12-11", "end": "1996-05-31" },
+        { "title": "Prime Minister of India (13th PM)", "start": "1996-06-01", "end": "1997-04-21" },
+        { "title": "Lok Sabha MP — Hassan, Karnataka", "start": "1991", "end": "1996" }
+      ],
+      "notes": "Rose from a farming family to become Chief Minister and then Prime Minister of India. Led United Front coalition government for 11 months until Congress withdrew support."
+    },
+    {
+      "party": "JDS",
+      "party_full_name": "Janata Dal (Secular)",
+      "party_color": "#006400",
+      "start_date": "1999",
+      "end_date": "Present",
+      "duration_years": 27,
+      "positions": [
+        { "title": "Lok Sabha MP — Hassan, Karnataka (multiple terms)", "start": "1999", "end": "2019" },
+        { "title": "Rajya Sabha MP (Karnataka)", "start": "2020", "end": "2026" }
+      ],
+      "notes": "Founded JD(S) in 1999 after split from Janata Dal. Contested and won from Hassan constituency multiple times. Moved to Rajya Sabha in 2020. Oldest serving Member of Parliament. JD(S) later joined NDA alliance in 2023."
+    }
+  ],
+  "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+  "education": {
+    "has_data": true,
+    "institutions": [
+      { "name": "L.B.S. College of Engineering, Mysore", "degree": "Diploma — Civil Engineering", "location": "Mysore, Karnataka", "year_start": "1950", "year_end": "1953" }
+    ]
+  },
+  "career_before_politics": {
+    "has_data": true,
+    "positions": [
+      { "company": "Agriculture", "role": "Farmer & Land Contractor", "year_start": "1950", "year_end": "1962" }
+    ]
+  },
+  "committees": [],
+  "stats": { "total_party_switches": 1, "years_in_politics": 64, "total_positions_held": 8, "parliaments_served": 4 },
+  "social_media": { "twitter": "@H_D_Devegowda", "instagram": "", "facebook": "" },
+  "external_sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/H._D._Deve_Gowda",
+    "myneta": "https://www.myneta.info/rajsab09aff/candidate.php?candidate_id=800",
+    "prs_legislative": "https://prsindia.org/mptrack/rajya-sabha/hd-deve-gowda",
+    "sansad_profile": "https://sansad.in/rs/members/biographical-information?member=H.D.+Deve+Gowda",
+    "news_articles": []
+  },
+  "metadata": { "added_date": "2026-04-29", "last_updated": "2026-04-29", "is_featured": false, "is_trending": false, "data_completeness": 82 }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "kamal-haasan",
+  "slug": "kamal-haasan",
+  "name": "Kamal Haasan",
+  "name_hindi": "कमल हासन",
+  "photo_url": "",
+  "date_of_birth": "1954-11-07",
+  "age": 71,
+  "current_info": {
+    "party": "MNM",
+    "party_full_name": "Makkal Needhi Maiam",
+    "party_color": "#1565C0",
+    "position": "Rajya Sabha MP",
+    "state": "Tamil Nadu",
+    "constituency": "Tamil Nadu (Rajya Sabha)",
+    "status": "active"
+  },
+  "political_timeline": [
+    {
+      "party": "MNM",
+      "party_full_name": "Makkal Needhi Maiam",
+      "party_color": "#1565C0",
+      "start_date": "2018-02-21",
+      "end_date": "Present",
+      "duration_years": 8,
+      "positions": [
+        { "title": "Founder & President, Makkal Needhi Maiam", "start": "2018-02-21", "end": "Present" },
+        { "title": "Rajya Sabha MP (Tamil Nadu)", "start": "2025-07-25", "end": "Present" }
+      ],
+      "notes": "Legendary actor-director with 250+ films across 6 languages. Founded MNM as a centrist, rationalist political party in 2018. First entered Parliament at age 70, taking oath in Tamil — a rare act in RS. Known for atheist, progressive, and Dravidian identity politics."
+    }
+  ],
+  "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+  "education": {
+    "has_data": true,
+    "institutions": [
+      { "name": "Srirangam / Paramakudi", "degree": "Primary Schooling (dropped out to pursue acting career)", "location": "Tamil Nadu", "year_start": "", "year_end": "1960" }
+    ]
+  },
+  "career_before_politics": {
+    "has_data": true,
+    "positions": [
+      { "company": "Tamil / Hindi / Telugu / Malayalam Film Industry", "role": "Actor, Director, Producer, Screenwriter (250+ films)", "year_start": "1960", "end": "2025" }
+    ]
+  },
+  "committees": [],
+  "stats": { "total_party_switches": 0, "years_in_politics": 8, "total_positions_held": 2, "parliaments_served": 1 },
+  "social_media": { "twitter": "@ikamalhaasan", "instagram": "@ikamalhaasan", "facebook": "" },
+  "external_sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kamal_Haasan",
+    "myneta": "",
+    "prs_legislative": "https://prsindia.org/mptrack/rajya-sabha/kamal-haasan",
+    "sansad_profile": "https://sansad.in/rs/members/biographical-information?member=Kamal+Haasan",
+    "news_articles": []
+  },
+  "metadata": { "added_date": "2026-04-29", "last_updated": "2026-04-29", "is_featured": false, "is_trending": false, "data_completeness": 72 }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "jp-nadda",
+  "slug": "jp-nadda",
+  "name": "J. P. Nadda",
+  "name_hindi": "जगत प्रकाश नड्डा",
+  "photo_url": "",
+  "date_of_birth": "1960-12-02",
+  "age": 65,
+  "current_info": {
+    "party": "BJP",
+    "party_full_name": "Bharatiya Janata Party",
+    "party_color": "#FF9933",
+    "position": "Rajya Sabha MP · Union Health Minister",
+    "state": "Gujarat",
+    "constituency": "Gujarat (Rajya Sabha)",
+    "status": "active"
+  },
+  "political_timeline": [
+    {
+      "party": "BJP",
+      "party_full_name": "Bharatiya Janata Party",
+      "party_color": "#FF9933",
+      "start_date": "1991",
+      "end_date": "Present",
+      "duration_years": 35,
+      "positions": [
+        { "title": "MLA — Bilaspur, Himachal Pradesh", "start": "1993", "end": "2012" },
+        { "title": "Minister of Health, Himachal Pradesh", "start": "1998", "end": "2003" },
+        { "title": "Rajya Sabha MP", "start": "2012", "end": "Present" },
+        { "title": "Union Minister of Health & Family Welfare", "start": "2014", "end": "2019" },
+        { "title": "BJP National Working President", "start": "2019", "end": "2020" },
+        { "title": "BJP National President", "start": "2020-01-20", "end": "2024" },
+        { "title": "Union Minister of Health, Chemicals & Fertilizers", "start": "2024", "end": "Present" }
+      ],
+      "notes": "Served as BJP's 10th National President (2020–2024). Under his leadership BJP won 2022 UP assembly elections. Closely associated with RSS since student days through ABVP."
+    }
+  ],
+  "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+  "education": {
+    "has_data": true,
+    "institutions": [
+      { "name": "St. Xavier's School", "degree": "Secondary Education", "location": "Patna, Bihar", "year_start": "", "year_end": "" },
+      { "name": "Patna College, Patna University", "degree": "Bachelor of Arts (BA)", "location": "Patna, Bihar", "year_start": "", "year_end": "" },
+      { "name": "Himachal Pradesh University", "degree": "LL.B — Law", "location": "Shimla, HP", "year_start": "", "year_end": "" }
+    ]
+  },
+  "career_before_politics": {
+    "has_data": true,
+    "positions": [
+      { "company": "ABVP (Akhil Bharatiya Vidyarthi Parishad)", "role": "Student Leader — National Secretary", "year_start": "1977", "year_end": "1991" }
+    ]
+  },
+  "committees": [],
+  "stats": { "total_party_switches": 0, "years_in_politics": 35, "total_positions_held": 7, "parliaments_served": 2 },
+  "social_media": { "twitter": "@JPNadda", "instagram": "@jpnadda", "facebook": "" },
+  "external_sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/J._P._Nadda",
+    "myneta": "",
+    "prs_legislative": "",
+    "sansad_profile": "https://sansad.in/rs/members/biographical-information?member=Jagat+Prakash+Nadda",
+    "news_articles": []
+  },
+  "metadata": { "added_date": "2026-04-29", "last_updated": "2026-04-29", "is_featured": false, "is_trending": false, "data_completeness": 75 }
+}

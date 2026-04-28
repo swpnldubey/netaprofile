@@ -1,0 +1,59 @@
+{
+  "id": "pt-usha",
+  "slug": "pt-usha",
+  "name": "P.T. Usha",
+  "name_hindi": "पी.टी. उषा",
+  "photo_url": "",
+  "date_of_birth": "1964-06-27",
+  "age": 61,
+  "current_info": {
+    "party": "NOM",
+    "party_full_name": "Nominated",
+    "party_color": "#718096",
+    "position": "Rajya Sabha MP (Nominated) · Member, Vice-Chairperson Panel",
+    "state": "Nominated",
+    "constituency": "Nominated by President",
+    "status": "active"
+  },
+  "political_timeline": [
+    {
+      "party": "NOM",
+      "party_full_name": "Nominated",
+      "party_color": "#718096",
+      "start_date": "2022-07-14",
+      "end_date": "Present",
+      "duration_years": 4,
+      "positions": [
+        { "title": "Nominated Member of Parliament, Rajya Sabha", "start": "2022-07-14", "end": "Present" },
+        { "title": "Member, Panel of Vice-Chairpersons, Rajya Sabha", "start": "2022", "end": "Present" },
+        { "title": "President, Indian Olympic Association", "start": "2022-12-10", "end": "Present" }
+      ],
+      "notes": "Legendary Indian sprinter known as 'Payyoli Express' and 'Queen of Indian Track and Field'. Won 4 gold medals at the 1986 Seoul Asian Games. Narrowly missed Olympic medal at 1984 Los Angeles Olympics (4th in 400m hurdles by 1/100th of a second). Nominated to RS by President as an eminent personality in sports. First sitting Rajya Sabha MP to be elected President of the Indian Olympic Association."
+    }
+  ],
+  "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+  "education": {
+    "has_data": true,
+    "institutions": [
+      { "name": "Government Victoria College, Palakkad", "degree": "BA — Arts", "location": "Palakkad, Kerala", "year_start": "1981", "year_end": "1984" }
+    ]
+  },
+  "career_before_politics": {
+    "has_data": true,
+    "positions": [
+      { "company": "Indian Railways / Kerala State", "role": "Professional Athlete — Sprints & Hurdles (National & International)", "year_start": "1976", "year_end": "2000" },
+      { "company": "Usha School of Athletics, Kozhikode", "role": "Founder & Chief Coach", "year_start": "2002", "year_end": "2022" }
+    ]
+  },
+  "committees": [],
+  "stats": { "total_party_switches": 0, "years_in_politics": 4, "total_positions_held": 3, "parliaments_served": 1 },
+  "social_media": { "twitter": "@PTUshaOfficial", "instagram": "@pt_usha_official", "facebook": "" },
+  "external_sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/P._T._Usha",
+    "myneta": "",
+    "prs_legislative": "https://prsindia.org/mptrack/rajya-sabha/pt-usha",
+    "sansad_profile": "https://sansad.in/rs/members/biographical-information?member=P.T.+Usha",
+    "news_articles": []
+  },
+  "metadata": { "added_date": "2026-04-29", "last_updated": "2026-04-29", "is_featured": false, "is_trending": false, "data_completeness": 78 }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "p-chidambaram",
+  "slug": "p-chidambaram",
+  "name": "P. Chidambaram",
+  "name_hindi": "पी. चिदंबरम",
+  "photo_url": "",
+  "date_of_birth": "1945-09-16",
+  "age": 80,
+  "current_info": {
+    "party": "INC",
+    "party_full_name": "Indian National Congress",
+    "party_color": "#1a9fd4",
+    "position": "Rajya Sabha MP",
+    "state": "Tamil Nadu",
+    "constituency": "Tamil Nadu (Rajya Sabha)",
+    "status": "active"
+  },
+  "political_timeline": [
+    {
+      "party": "INC",
+      "party_full_name": "Indian National Congress",
+      "party_color": "#1a9fd4",
+      "start_date": "1972",
+      "end_date": "Present",
+      "duration_years": 54,
+      "positions": [
+        { "title": "Minister of State, Home Affairs (Rajiv Gandhi govt)", "start": "1984", "end": "1986" },
+        { "title": "Lok Sabha MP — Sivaganga, Tamil Nadu (multiple terms)", "start": "1984", "end": "2019" },
+        { "title": "Finance Minister of India (1st term)", "start": "1996", "end": "1997" },
+        { "title": "Finance Minister of India (2nd & 3rd terms)", "start": "2004", "end": "2008" },
+        { "title": "Home Minister of India", "start": "2008", "end": "2012" },
+        { "title": "Finance Minister of India (4th term)", "start": "2012", "end": "2014" },
+        { "title": "Rajya Sabha MP (Maharashtra)", "start": "2016", "end": "2022" },
+        { "title": "Rajya Sabha MP (Tamil Nadu)", "start": "2022", "end": "Present" }
+      ],
+      "notes": "Introduced the 'Dream Budget' of 1997 which cut income tax rates dramatically. Was arrested by CBI in 2019 in INX Media case and spent 106 days in Tihar Jail before bail. One of India's most formidable parliamentary debaters."
+    }
+  ],
+  "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+  "education": {
+    "has_data": true,
+    "institutions": [
+      { "name": "Presidency College", "degree": "BSc — Statistics", "location": "Chennai, Tamil Nadu", "year_start": "", "year_end": "1964" },
+      { "name": "Loyola College", "degree": "MA", "location": "Chennai, Tamil Nadu", "year_start": "1964", "year_end": "1966" },
+      { "name": "Dr. Ambedkar Government Law College (Madras Law College)", "degree": "Bachelor of Laws (BL)", "location": "Chennai, Tamil Nadu", "year_start": "", "year_end": "1969" },
+      { "name": "Harvard Business School", "degree": "MBA", "location": "Boston, USA", "year_start": "1966", "year_end": "1968" }
+    ]
+  },
+  "career_before_politics": {
+    "has_data": true,
+    "positions": [
+      { "company": "Madras High Court / Supreme Court", "role": "Senior Advocate — Corporate & Tax Law", "year_start": "1969", "year_end": "1984" }
+    ]
+  },
+  "committees": [],
+  "stats": { "total_party_switches": 0, "years_in_politics": 54, "total_positions_held": 8, "parliaments_served": 3 },
+  "social_media": { "twitter": "@PChidambaram_IN", "instagram": "", "facebook": "" },
+  "external_sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/P._Chidambaram",
+    "myneta": "https://www.myneta.info/rajsab09aff/candidate.php?candidate_id=970",
+    "prs_legislative": "https://prsindia.org/mptrack/rajya-sabha/pchidambaram",
+    "sansad_profile": "https://sansad.in/rs/members/biographical-information?member=P.+Chidambaram",
+    "news_articles": []
+  },
+  "metadata": { "added_date": "2026-04-29", "last_updated": "2026-04-29", "is_featured": false, "is_trending": false, "data_completeness": 82 }
+}

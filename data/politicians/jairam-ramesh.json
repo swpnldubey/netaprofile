@@ -1,0 +1,64 @@
+{
+  "id": "jairam-ramesh",
+  "slug": "jairam-ramesh",
+  "name": "Jairam Ramesh",
+  "name_hindi": "जयराम रमेश",
+  "photo_url": "",
+  "date_of_birth": "1954-04-09",
+  "age": 72,
+  "current_info": {
+    "party": "INC",
+    "party_full_name": "Indian National Congress",
+    "party_color": "#1a9fd4",
+    "position": "Rajya Sabha MP · General Secretary, INC",
+    "state": "Karnataka",
+    "constituency": "Karnataka (Rajya Sabha)",
+    "status": "active"
+  },
+  "political_timeline": [
+    {
+      "party": "INC",
+      "party_full_name": "Indian National Congress",
+      "party_color": "#1a9fd4",
+      "start_date": "1991",
+      "end_date": "Present",
+      "duration_years": 35,
+      "positions": [
+        { "title": "Advisor to Finance Minister (P. Chidambaram)", "start": "1996", "end": "1998" },
+        { "title": "Rajya Sabha MP (Andhra Pradesh)", "start": "2004", "end": "2014" },
+        { "title": "Minister of State for Environment & Forests (IC)", "start": "2009", "end": "2011" },
+        { "title": "Minister of Rural Development", "start": "2011", "end": "2014" },
+        { "title": "Rajya Sabha MP (Karnataka)", "start": "2016", "end": "Present" },
+        { "title": "General Secretary, Indian National Congress", "start": "2022", "end": "Present" }
+      ],
+      "notes": "Known for bold environmental decisions including major forest clearance rejections. An economist by training, he is one of Congress's most articulate voices on policy and media. Author of multiple books including a biography of Indira Gandhi."
+    }
+  ],
+  "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+  "education": {
+    "has_data": true,
+    "institutions": [
+      { "name": "St. Xavier's School", "degree": "Secondary Education", "location": "Ranchi, Jharkhand", "year_start": "", "year_end": "" },
+      { "name": "IIT Bombay", "degree": "B.Tech — Mechanical Engineering", "location": "Mumbai, Maharashtra", "year_start": "", "year_end": "1975" },
+      { "name": "Carnegie Mellon University", "degree": "MS — Public Management", "location": "Pittsburgh, USA", "year_start": "1975", "year_end": "1977" },
+      { "name": "MIT (Massachusetts Institute of Technology)", "degree": "Technology Policy & Economics", "location": "Cambridge, USA", "year_start": "1977", "year_end": "1979" }
+    ]
+  },
+  "career_before_politics": {
+    "has_data": true,
+    "positions": [
+      { "company": "Planning Commission of India", "role": "Economic Advisor", "year_start": "1980", "year_end": "1991" }
+    ]
+  },
+  "committees": [],
+  "stats": { "total_party_switches": 0, "years_in_politics": 35, "total_positions_held": 6, "parliaments_served": 2 },
+  "social_media": { "twitter": "@Jairam_Ramesh", "instagram": "", "facebook": "" },
+  "external_sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jairam_Ramesh",
+    "myneta": "https://www.myneta.info/rajsab09aff/candidate.php?candidate_id=981",
+    "prs_legislative": "https://prsindia.org/mptrack/rajya-sabha/jairamramesh",
+    "sansad_profile": "https://sansad.in/rs/members/biographical-information?member=Jairam+Ramesh",
+    "news_articles": []
+  },
+  "metadata": { "added_date": "2026-04-29", "last_updated": "2026-04-29", "is_featured": false, "is_trending": false, "data_completeness": 80 }
+}
