@@ -173,12 +173,35 @@ export function getPoliticiansByState(state: string): Politician[] {
 
 export function getPlatformStats() {
   const all = loadPoliticians();
+
+  // Find the earliest year any politician entered politics — drives "X+ years of history"
+  const currentYear = new Date().getFullYear();
+  let earliestYear = currentYear;
+  for (const p of all) {
+    for (const entry of p.political_timeline) {
+      const year = parseInt(entry.start_date.substring(0, 4));
+      if (!isNaN(year) && year > 1900 && year < earliestYear) {
+        earliestYear = year;
+      }
+    }
+  }
+  const yearsOfHistory = currentYear - earliestYear;
+
+  // Recently added: sort by added_date descending, take 6
+  const recentlyAdded = [...all]
+    .sort((a, b) =>
+      b.metadata.added_date.localeCompare(a.metadata.added_date)
+    )
+    .slice(0, 6);
+
   return {
     total_politicians: all.length,
     total_party_switches: all.reduce(
       (sum, p) => sum + p.stats.total_party_switches,
       0
     ),
+    years_of_history: yearsOfHistory,
+    recently_added: recentlyAdded,
     last_updated: platformData.last_platform_update,
     next_additions: platformData.next_additions,
   };

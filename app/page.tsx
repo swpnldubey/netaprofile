@@ -14,6 +14,7 @@ export default function HomePage() {
   const trending = getTrendingPoliticians();
   const all = getAllPoliticians();
   const stats = getPlatformStats();
+  const recentlyAdded = stats.recently_added;
 
   return (
     <>
@@ -50,7 +51,9 @@ export default function HomePage() {
                 party switch documented
               </span>
               <span>
-                <span className="text-white font-bold text-xl mr-1">14+</span>
+                <span className="text-white font-bold text-xl mr-1">
+                  {stats.years_of_history}+
+                </span>
                 years of history
               </span>
             </div>
@@ -83,7 +86,9 @@ export default function HomePage() {
                 <div className="w-10 h-10 bg-green-50 rounded-full flex items-center justify-center">
                   <Calendar className="w-5 h-5 text-green-600" />
                 </div>
-                <span className="text-2xl font-bold text-slate-900">14+</span>
+                <span className="text-2xl font-bold text-slate-900">
+                  {stats.years_of_history}+
+                </span>
                 <span className="text-xs text-slate-500">Years of History</span>
               </div>
             </div>
@@ -118,14 +123,29 @@ export default function HomePage() {
         {/* Recently Added */}
         <section className="py-16 px-4 bg-white">
           <div className="max-w-7xl mx-auto">
-            <div className="mb-8">
-              <h2 className="text-2xl font-bold text-slate-900">Recently Added</h2>
-              <p className="text-slate-500 text-sm mt-1">Latest politician profiles</p>
+            <div className="flex items-center justify-between mb-8">
+              <div>
+                <h2 className="text-2xl font-bold text-slate-900">Recently Added</h2>
+                <p className="text-slate-500 text-sm mt-1">Latest politician profiles</p>
+              </div>
+              <span className="text-xs text-slate-400 font-medium">
+                {stats.total_politicians} total
+              </span>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {all.map((p) => (
+              {recentlyAdded.map((p) => (
                 <PoliticianCard key={p.slug} politician={p} />
               ))}
+            </div>
+            {/* View All button */}
+            <div className="mt-10 flex justify-center">
+              <Link
+                href="/politicians"
+                className="inline-flex items-center gap-2 px-8 py-3 bg-slate-900 text-white rounded-xl font-semibold text-sm hover:bg-slate-700 transition-colors shadow-sm"
+              >
+                View all {stats.total_politicians} politicians
+                <ArrowRight className="w-4 h-4" />
+              </Link>
             </div>
           </div>
         </section>
