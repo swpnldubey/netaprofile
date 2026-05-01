@@ -3,7 +3,7 @@
   "slug": "vikramjit-singh-sahney",
   "name": "Vikramjit Singh Sahney",
   "name_hindi": "विक्रमजीत सिंह साहनी",
-  "photo_url": "/images/politicians/vikramjit-sahney.png",
+  "photo_url": "/politicians/photos/vikramjit-singh-sahney.jpg",
   "date_of_birth": "1962-02-20",
   "age": 64,
   "current_info": {
@@ -24,7 +24,11 @@
       "end_date": "2026-04-24",
       "duration_years": 4,
       "positions": [
-        { "title": "Rajya Sabha MP (Punjab)", "start": "2022", "end": "2026-04-24" }
+        {
+          "title": "Rajya Sabha MP (Punjab)",
+          "start": "2022",
+          "end": "2026-04-24"
+        }
       ],
       "notes": "Chairman of Sun Group. Padma Shri awardee. Prominent industrialist from Punjab."
     },
@@ -36,7 +40,11 @@
       "end_date": "Present",
       "duration_years": 0,
       "positions": [
-        { "title": "Rajya Sabha MP", "start": "2026-04-24", "end": "Present" }
+        {
+          "title": "Rajya Sabha MP",
+          "start": "2026-04-24",
+          "end": "Present"
+        }
       ],
       "notes": "Defected with Raghav Chadha group on April 24, 2026."
     }
@@ -91,30 +99,83 @@
   "education": {
     "has_data": true,
     "institutions": [
-      { "name": "Government Barjindra College", "degree": "Undergraduate", "location": "Faridkot, Punjab", "year_start": "1980", "year_end": "1982" },
-      { "name": "Punjabi University", "degree": "MA — Economics", "location": "Patiala, Punjab", "year_start": "1982", "year_end": "1984" },
-      { "name": "Institute of Productivity and Management", "degree": "MBA — Market Research & Industrial Relations", "location": "Meerut, UP", "year_start": "1984", "year_end": "1986" },
-      { "name": "Harvard Kennedy School", "degree": "Public Leadership Credential (pursuing)", "location": "Cambridge, USA", "year_start": "", "year_end": "" }
+      {
+        "name": "Government Barjindra College",
+        "degree": "Undergraduate",
+        "location": "Faridkot, Punjab",
+        "year_start": "1980",
+        "year_end": "1982"
+      },
+      {
+        "name": "Punjabi University",
+        "degree": "MA — Economics",
+        "location": "Patiala, Punjab",
+        "year_start": "1982",
+        "year_end": "1984"
+      },
+      {
+        "name": "Institute of Productivity and Management",
+        "degree": "MBA — Market Research & Industrial Relations",
+        "location": "Meerut, UP",
+        "year_start": "1984",
+        "year_end": "1986"
+      },
+      {
+        "name": "Harvard Kennedy School",
+        "degree": "Public Leadership Credential (pursuing)",
+        "location": "Cambridge, USA",
+        "year_start": "",
+        "year_end": ""
+      }
     ]
   },
   "career_before_politics": {
     "has_data": true,
     "positions": [
-      { "company": "Sun Group", "role": "Chairman — International Trade, Fertilisers, Minerals & Agri Commodities", "year_start": "1990", "year_end": "2022" },
-      { "company": "World Punjabi Organisation", "role": "Founder (non-political body connecting global Punjabi communities)", "year_start": "1998", "year_end": "2022" }
+      {
+        "company": "Sun Group",
+        "role": "Chairman — International Trade, Fertilisers, Minerals & Agri Commodities",
+        "year_start": "1990",
+        "year_end": "2022"
+      },
+      {
+        "company": "World Punjabi Organisation",
+        "role": "Founder (non-political body connecting global Punjabi communities)",
+        "year_start": "1998",
+        "year_end": "2022"
+      }
     ]
   },
   "committees": [],
-  "stats": { "total_party_switches": 1, "years_in_politics": 4, "total_positions_held": 1, "parliaments_served": 1 },
-  "social_media": { "twitter": "@vikramsahney", "instagram": "@vikramsahney", "facebook": "" },
+  "stats": {
+    "total_party_switches": 1,
+    "years_in_politics": 4,
+    "total_positions_held": 1,
+    "parliaments_served": 1
+  },
+  "social_media": {
+    "twitter": "@vikramsahney",
+    "instagram": "@vikramsahney",
+    "facebook": ""
+  },
   "external_sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Vikramjit_Singh_Sahney",
     "myneta": "",
     "prs_legislative": "",
     "sansad_profile": "",
     "news_articles": [
-      { "title": "Big blow to AAP: Raghav Chadha, 6 Rajya Sabha MPs merge with BJP", "url": "https://www.india.com/news/india/raghav-chadha-ashok-mittal-sandeep-pathak-harbhajan-singh-rajinder-gupta-vikram-sahney-swati-maliwal-rajya-sabha-mps-merge-with-bjp-aap-prime-minister-narendra-modi-amit-shah-8392306/", "date": "2026-04-24" }
+      {
+        "title": "Big blow to AAP: Raghav Chadha, 6 Rajya Sabha MPs merge with BJP",
+        "url": "https://www.india.com/news/india/raghav-chadha-ashok-mittal-sandeep-pathak-harbhajan-singh-rajinder-gupta-vikram-sahney-swati-maliwal-rajya-sabha-mps-merge-with-bjp-aap-prime-minister-narendra-modi-amit-shah-8392306/",
+        "date": "2026-04-24"
+      }
     ]
   },
-  "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-29", "is_featured": false, "is_trending": true, "data_completeness": 48 }
+  "metadata": {
+    "added_date": "2026-04-26",
+    "last_updated": "2026-04-29",
+    "is_featured": false,
+    "is_trending": true,
+    "data_completeness": 48
+  }
 }

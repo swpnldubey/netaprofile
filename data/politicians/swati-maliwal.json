@@ -3,7 +3,7 @@
   "slug": "swati-maliwal",
   "name": "Swati Maliwal",
   "name_hindi": "स्वाति मालीवाल",
-  "photo_url": "/images/politicians/swati-maliwal.png",
+  "photo_url": "/politicians/photos/swati-maliwal.jpg",
   "date_of_birth": "1984-10-15",
   "age": 41,
   "current_info": {
@@ -24,8 +24,16 @@
       "end_date": "2026-04-24",
       "duration_years": 11,
       "positions": [
-        { "title": "Chairperson, Delhi Commission for Women (DCW)", "start": "2015", "end": "2024" },
-        { "title": "Rajya Sabha MP (Delhi)", "start": "2024", "end": "2026-04-24" }
+        {
+          "title": "Chairperson, Delhi Commission for Women (DCW)",
+          "start": "2015",
+          "end": "2024"
+        },
+        {
+          "title": "Rajya Sabha MP (Delhi)",
+          "start": "2024",
+          "end": "2026-04-24"
+        }
       ],
       "notes": "Known for activism on women's rights. Had public fallout with Kejriwal after alleging assault at his residence in May 2024."
     },
@@ -37,7 +45,11 @@
       "end_date": "Present",
       "duration_years": 0,
       "positions": [
-        { "title": "Rajya Sabha MP", "start": "2026-04-24", "end": "Present" }
+        {
+          "title": "Rajya Sabha MP",
+          "start": "2026-04-24",
+          "end": "Present"
+        }
       ],
       "notes": "Defected with Raghav Chadha group. Said 'AAP is no longer the same party, no one can work with Kejriwal.'"
     }
@@ -92,29 +104,75 @@
   "education": {
     "has_data": true,
     "institutions": [
-      { "name": "Amity International School", "degree": "Schooling", "location": "Delhi", "year_start": "", "year_end": "2002" },
-      { "name": "JSS Academy of Technical Education", "degree": "B.Tech — Information Technology", "location": "Noida, UP", "year_start": "2002", "year_end": "2006" }
+      {
+        "name": "Amity International School",
+        "degree": "Schooling",
+        "location": "Delhi",
+        "year_start": "",
+        "year_end": "2002"
+      },
+      {
+        "name": "JSS Academy of Technical Education",
+        "degree": "B.Tech — Information Technology",
+        "location": "Noida, UP",
+        "year_start": "2002",
+        "year_end": "2006"
+      }
     ]
   },
   "career_before_politics": {
     "has_data": true,
     "positions": [
-      { "company": "Parivartan NGO", "role": "Social Activist", "year_start": "2006", "year_end": "2006" },
-      { "company": "Public Cause Research Foundation (PCRF)", "role": "Development Worker — Women Empowerment", "year_start": "2006", "year_end": "2013" },
-      { "company": "Office of CM Arvind Kejriwal", "role": "Advisor — Public Grievances (Janta Samwad)", "year_start": "2013", "year_end": "2015" }
+      {
+        "company": "Parivartan NGO",
+        "role": "Social Activist",
+        "year_start": "2006",
+        "year_end": "2006"
+      },
+      {
+        "company": "Public Cause Research Foundation (PCRF)",
+        "role": "Development Worker — Women Empowerment",
+        "year_start": "2006",
+        "year_end": "2013"
+      },
+      {
+        "company": "Office of CM Arvind Kejriwal",
+        "role": "Advisor — Public Grievances (Janta Samwad)",
+        "year_start": "2013",
+        "year_end": "2015"
+      }
     ]
   },
   "committees": [],
-  "stats": { "total_party_switches": 1, "years_in_politics": 11, "total_positions_held": 2, "parliaments_served": 1 },
-  "social_media": { "twitter": "@SwatiJaiHind", "instagram": "@swati_maliwal", "facebook": "" },
+  "stats": {
+    "total_party_switches": 1,
+    "years_in_politics": 11,
+    "total_positions_held": 2,
+    "parliaments_served": 1
+  },
+  "social_media": {
+    "twitter": "@SwatiJaiHind",
+    "instagram": "@swati_maliwal",
+    "facebook": ""
+  },
   "external_sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Swati_Maliwal",
     "myneta": "",
     "prs_legislative": "",
     "sansad_profile": "",
     "news_articles": [
-      { "title": "AAP no longer the same party, no one can work with Kejriwal: Swati Maliwal", "url": "https://www.business-standard.com/india-news/aap-no-longer-the-same-party-no-one-can-work-with-kejriwal-swati-maliwal-126042500482_1.html", "date": "2026-04-25" }
+      {
+        "title": "AAP no longer the same party, no one can work with Kejriwal: Swati Maliwal",
+        "url": "https://www.business-standard.com/india-news/aap-no-longer-the-same-party-no-one-can-work-with-kejriwal-swati-maliwal-126042500482_1.html",
+        "date": "2026-04-25"
+      }
     ]
   },
-  "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-29", "is_featured": false, "is_trending": true, "data_completeness": 68 }
+  "metadata": {
+    "added_date": "2026-04-26",
+    "last_updated": "2026-04-29",
+    "is_featured": false,
+    "is_trending": true,
+    "data_completeness": 68
+  }
 }

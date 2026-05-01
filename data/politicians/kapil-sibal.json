@@ -3,7 +3,7 @@
   "slug": "kapil-sibal",
   "name": "Kapil Sibal",
   "name_hindi": "कपिल सिब्बल",
-  "photo_url": "",
+  "photo_url": "/politicians/photos/kapil-sibal.jpg",
   "date_of_birth": "1948-08-08",
   "age": 77,
   "current_info": {
@@ -24,12 +24,36 @@
       "end_date": "2022",
       "duration_years": 39,
       "positions": [
-        { "title": "Additional Solicitor General of India", "start": "1989", "end": "1990" },
-        { "title": "Rajya Sabha MP (Bihar)", "start": "1998", "end": "2004" },
-        { "title": "Lok Sabha MP — Chandni Chowk, Delhi", "start": "2004", "end": "2014" },
-        { "title": "Minister of Science & Technology / Earth Sciences", "start": "2009", "end": "2012" },
-        { "title": "Minister of Human Resource Development", "start": "2009", "end": "2014" },
-        { "title": "Minister of Law & Justice", "start": "2012", "end": "2014" }
+        {
+          "title": "Additional Solicitor General of India",
+          "start": "1989",
+          "end": "1990"
+        },
+        {
+          "title": "Rajya Sabha MP (Bihar)",
+          "start": "1998",
+          "end": "2004"
+        },
+        {
+          "title": "Lok Sabha MP — Chandni Chowk, Delhi",
+          "start": "2004",
+          "end": "2014"
+        },
+        {
+          "title": "Minister of Science & Technology / Earth Sciences",
+          "start": "2009",
+          "end": "2012"
+        },
+        {
+          "title": "Minister of Human Resource Development",
+          "start": "2009",
+          "end": "2014"
+        },
+        {
+          "title": "Minister of Law & Justice",
+          "start": "2012",
+          "end": "2014"
+        }
       ],
       "notes": "G-23 leader who consistently raised internal democracy concerns within Congress. Resigned from INC in 2022 citing stagnation in the party."
     },
@@ -41,30 +65,75 @@
       "end_date": "Present",
       "duration_years": 4,
       "positions": [
-        { "title": "Rajya Sabha MP — UP (Independent, backed by SP)", "start": "2022", "end": "Present" }
+        {
+          "title": "Rajya Sabha MP — UP (Independent, backed by SP)",
+          "start": "2022",
+          "end": "Present"
+        }
       ],
       "notes": "Left INC in May 2022 and was elected to Rajya Sabha as Independent with SP support. One of India's most senior Supreme Court advocates; argued landmark cases including Babri Masjid, Aadhaar, and Article 370."
     }
   ],
-  "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+  "statements": {
+    "has_contradictions": false,
+    "before_switch": [],
+    "after_switch": []
+  },
   "education": {
     "has_data": true,
     "institutions": [
-      { "name": "St. John's High School", "degree": "Secondary Education", "location": "Chandigarh", "year_start": "", "year_end": "" },
-      { "name": "St. Stephen's College, University of Delhi", "degree": "BA & MA — History", "location": "New Delhi", "year_start": "1964", "year_end": "1969" },
-      { "name": "Harvard Law School", "degree": "LLM — Law", "location": "Cambridge, USA", "year_start": "1976", "year_end": "1977" }
+      {
+        "name": "St. John's High School",
+        "degree": "Secondary Education",
+        "location": "Chandigarh",
+        "year_start": "",
+        "year_end": ""
+      },
+      {
+        "name": "St. Stephen's College, University of Delhi",
+        "degree": "BA & MA — History",
+        "location": "New Delhi",
+        "year_start": "1964",
+        "year_end": "1969"
+      },
+      {
+        "name": "Harvard Law School",
+        "degree": "LLM — Law",
+        "location": "Cambridge, USA",
+        "year_start": "1976",
+        "year_end": "1977"
+      }
     ]
   },
   "career_before_politics": {
     "has_data": true,
     "positions": [
-      { "company": "Bar Council of Delhi", "role": "Advocate (joined Bar 1972)", "year_start": "1972", "year_end": "1998" },
-      { "company": "Supreme Court of India", "role": "Senior Advocate / Additional Solicitor General", "year_start": "1983", "year_end": "1998" }
+      {
+        "company": "Bar Council of Delhi",
+        "role": "Advocate (joined Bar 1972)",
+        "year_start": "1972",
+        "year_end": "1998"
+      },
+      {
+        "company": "Supreme Court of India",
+        "role": "Senior Advocate / Additional Solicitor General",
+        "year_start": "1983",
+        "year_end": "1998"
+      }
     ]
   },
   "committees": [],
-  "stats": { "total_party_switches": 1, "years_in_politics": 43, "total_positions_held": 6, "parliaments_served": 3 },
-  "social_media": { "twitter": "@KapilSibal", "instagram": "", "facebook": "" },
+  "stats": {
+    "total_party_switches": 1,
+    "years_in_politics": 43,
+    "total_positions_held": 6,
+    "parliaments_served": 3
+  },
+  "social_media": {
+    "twitter": "@KapilSibal",
+    "instagram": "",
+    "facebook": ""
+  },
   "external_sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Kapil_Sibal",
     "myneta": "https://www.myneta.info/rajsab09aff/candidate.php?candidate_id=953",
@@ -72,5 +141,11 @@
     "sansad_profile": "https://sansad.in/rs/members/biographical-information?member=Kapil+Sibal",
     "news_articles": []
   },
-  "metadata": { "added_date": "2026-04-29", "last_updated": "2026-04-29", "is_featured": false, "is_trending": false, "data_completeness": 80 }
+  "metadata": {
+    "added_date": "2026-04-29",
+    "last_updated": "2026-04-29",
+    "is_featured": false,
+    "is_trending": false,
+    "data_completeness": 80
+  }
 }

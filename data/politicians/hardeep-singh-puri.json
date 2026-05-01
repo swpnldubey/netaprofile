@@ -3,7 +3,7 @@
   "slug": "hardeep-singh-puri",
   "name": "Hardeep Singh Puri",
   "name_hindi": "हरदीप सिंह पुरी",
-  "photo_url": "",
+  "photo_url": "/politicians/photos/hardeep-singh-puri.jpg",
   "date_of_birth": "1952-02-15",
   "age": 74,
   "current_info": {
@@ -24,32 +24,84 @@
       "end_date": "Present",
       "duration_years": 12,
       "positions": [
-        { "title": "Rajya Sabha MP (Uttar Pradesh)", "start": "2018", "end": "Present" },
-        { "title": "Minister of State (IC) — Housing & Urban Affairs, Civil Aviation", "start": "2017", "end": "2021" },
-        { "title": "Cabinet Minister — Petroleum & Natural Gas", "start": "2021", "end": "Present" }
+        {
+          "title": "Rajya Sabha MP (Uttar Pradesh)",
+          "start": "2018",
+          "end": "Present"
+        },
+        {
+          "title": "Minister of State (IC) — Housing & Urban Affairs, Civil Aviation",
+          "start": "2017",
+          "end": "2021"
+        },
+        {
+          "title": "Cabinet Minister — Petroleum & Natural Gas",
+          "start": "2021",
+          "end": "Present"
+        }
       ],
       "notes": "Career IFS officer (1974 batch) who served as India's Permanent Representative to the UN (2009–2013). Joined BJP at 62. Oversaw the Ujjwala gas scheme and handled civil aviation during COVID-19 repatriation."
     }
   ],
-  "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+  "statements": {
+    "has_contradictions": false,
+    "before_switch": [],
+    "after_switch": []
+  },
   "education": {
     "has_data": true,
     "institutions": [
-      { "name": "Hindu College, University of Delhi", "degree": "BA (Hons) — History (First in Order of Merit)", "location": "New Delhi", "year_start": "1968", "year_end": "1971" },
-      { "name": "Hindu College, University of Delhi", "degree": "MA — History (First Division)", "location": "New Delhi", "year_start": "1971", "year_end": "1973" }
+      {
+        "name": "Hindu College, University of Delhi",
+        "degree": "BA (Hons) — History (First in Order of Merit)",
+        "location": "New Delhi",
+        "year_start": "1968",
+        "year_end": "1971"
+      },
+      {
+        "name": "Hindu College, University of Delhi",
+        "degree": "MA — History (First Division)",
+        "location": "New Delhi",
+        "year_start": "1971",
+        "year_end": "1973"
+      }
     ]
   },
   "career_before_politics": {
     "has_data": true,
     "positions": [
-      { "company": "Indian Foreign Service (IFS)", "role": "Diplomat — 1974 batch, multiple senior postings", "year_start": "1974", "year_end": "2013" },
-      { "company": "Permanent Mission of India to the UN", "role": "Permanent Representative of India", "year_start": "2009", "year_end": "2013" },
-      { "company": "Ministry of External Affairs", "role": "Secretary (West)", "year_start": "2013", "year_end": "2014" }
+      {
+        "company": "Indian Foreign Service (IFS)",
+        "role": "Diplomat — 1974 batch, multiple senior postings",
+        "year_start": "1974",
+        "year_end": "2013"
+      },
+      {
+        "company": "Permanent Mission of India to the UN",
+        "role": "Permanent Representative of India",
+        "year_start": "2009",
+        "year_end": "2013"
+      },
+      {
+        "company": "Ministry of External Affairs",
+        "role": "Secretary (West)",
+        "year_start": "2013",
+        "year_end": "2014"
+      }
     ]
   },
   "committees": [],
-  "stats": { "total_party_switches": 0, "years_in_politics": 12, "total_positions_held": 3, "parliaments_served": 1 },
-  "social_media": { "twitter": "@HardeepSPuri", "instagram": "@hardeepspuri", "facebook": "" },
+  "stats": {
+    "total_party_switches": 0,
+    "years_in_politics": 12,
+    "total_positions_held": 3,
+    "parliaments_served": 1
+  },
+  "social_media": {
+    "twitter": "@HardeepSPuri",
+    "instagram": "@hardeepspuri",
+    "facebook": ""
+  },
   "external_sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Hardeep_Singh_Puri",
     "myneta": "https://www.myneta.info/rajsab09aff/candidate.php?candidate_id=699",
@@ -57,5 +109,11 @@
     "sansad_profile": "https://sansad.in/rs/members/biographical-information?member=Hardeep+Singh+Puri",
     "news_articles": []
   },
-  "metadata": { "added_date": "2026-04-29", "last_updated": "2026-04-29", "is_featured": false, "is_trending": false, "data_completeness": 78 }
+  "metadata": {
+    "added_date": "2026-04-29",
+    "last_updated": "2026-04-29",
+    "is_featured": false,
+    "is_trending": false,
+    "data_completeness": 78
+  }
 }

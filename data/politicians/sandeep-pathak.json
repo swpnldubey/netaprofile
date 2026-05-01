@@ -3,7 +3,7 @@
   "slug": "sandeep-pathak",
   "name": "Sandeep Pathak",
   "name_hindi": "संदीप पाठक",
-  "photo_url": "/images/politicians/sandeep-pathak.png",
+  "photo_url": "/politicians/photos/sandeep-pathak.jpg",
   "date_of_birth": "1979-10-04",
   "age": 46,
   "current_info": {
@@ -24,8 +24,16 @@
       "end_date": "2026-04-24",
       "duration_years": 4,
       "positions": [
-        { "title": "Rajya Sabha MP (Punjab)", "start": "2022-04", "end": "2026-04-24" },
-        { "title": "National General Secretary (Organisation)", "start": "2022-12-13", "end": "2026-04-24" }
+        {
+          "title": "Rajya Sabha MP (Punjab)",
+          "start": "2022-04",
+          "end": "2026-04-24"
+        },
+        {
+          "title": "National General Secretary (Organisation)",
+          "start": "2022-12-13",
+          "end": "2026-04-24"
+        }
       ],
       "notes": "Former IIT Delhi professor and Cambridge PhD. Key architect of AAP's Punjab 2022 election victory."
     },
@@ -37,7 +45,11 @@
       "end_date": "Present",
       "duration_years": 0,
       "positions": [
-        { "title": "Rajya Sabha MP", "start": "2026-04-24", "end": "Present" }
+        {
+          "title": "Rajya Sabha MP",
+          "start": "2026-04-24",
+          "end": "Present"
+        }
       ],
       "notes": "Defected with Raghav Chadha and 5 other AAP MPs on April 24, 2026."
     }
@@ -82,28 +94,70 @@
   "education": {
     "has_data": true,
     "institutions": [
-      { "name": "University of Cambridge", "degree": "PhD — High Temperature Superconducting Materials", "location": "Cambridge, UK", "year_start": "", "year_end": "" },
-      { "name": "University of Oxford", "degree": "Post-Doctoral Research", "location": "Oxford, UK", "year_start": "", "year_end": "" },
-      { "name": "MIT", "degree": "Post-Doctoral Research", "location": "Cambridge, USA", "year_start": "", "year_end": "" }
+      {
+        "name": "University of Cambridge",
+        "degree": "PhD — High Temperature Superconducting Materials",
+        "location": "Cambridge, UK",
+        "year_start": "",
+        "year_end": ""
+      },
+      {
+        "name": "University of Oxford",
+        "degree": "Post-Doctoral Research",
+        "location": "Oxford, UK",
+        "year_start": "",
+        "year_end": ""
+      },
+      {
+        "name": "MIT",
+        "degree": "Post-Doctoral Research",
+        "location": "Cambridge, USA",
+        "year_start": "",
+        "year_end": ""
+      }
     ]
   },
   "career_before_politics": {
     "has_data": true,
     "positions": [
-      { "company": "IIT Delhi", "role": "Associate Professor, Dept. of Energy Science and Engineering", "year_start": "", "year_end": "2020" }
+      {
+        "company": "IIT Delhi",
+        "role": "Associate Professor, Dept. of Energy Science and Engineering",
+        "year_start": "",
+        "year_end": "2020"
+      }
     ]
   },
   "committees": [],
-  "stats": { "total_party_switches": 1, "years_in_politics": 4, "total_positions_held": 2, "parliaments_served": 1 },
-  "social_media": { "twitter": "@SandeepPathak04", "instagram": "", "facebook": "" },
+  "stats": {
+    "total_party_switches": 1,
+    "years_in_politics": 4,
+    "total_positions_held": 2,
+    "parliaments_served": 1
+  },
+  "social_media": {
+    "twitter": "@SandeepPathak04",
+    "instagram": "",
+    "facebook": ""
+  },
   "external_sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Sandeep_Pathak",
     "myneta": "https://www.myneta.info/rajsab09aff/candidate.php?candidate_id=936",
     "prs_legislative": "https://prsindia.org/mptrack/rajya-sabha/sandeep-kumar-pathak",
     "sansad_profile": "",
     "news_articles": [
-      { "title": "Big blow to AAP: Raghav Chadha, 6 Rajya Sabha MPs merge with BJP. Who are they?", "url": "https://www.india.com/news/india/raghav-chadha-ashok-mittal-sandeep-pathak-harbhajan-singh-rajinder-gupta-vikram-sahney-swati-maliwal-rajya-sabha-mps-merge-with-bjp-aap-prime-minister-narendra-modi-amit-shah-8392306/", "date": "2026-04-24" }
+      {
+        "title": "Big blow to AAP: Raghav Chadha, 6 Rajya Sabha MPs merge with BJP. Who are they?",
+        "url": "https://www.india.com/news/india/raghav-chadha-ashok-mittal-sandeep-pathak-harbhajan-singh-rajinder-gupta-vikram-sahney-swati-maliwal-rajya-sabha-mps-merge-with-bjp-aap-prime-minister-narendra-modi-amit-shah-8392306/",
+        "date": "2026-04-24"
+      }
     ]
   },
-  "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-29", "is_featured": false, "is_trending": true, "data_completeness": 74 }
+  "metadata": {
+    "added_date": "2026-04-26",
+    "last_updated": "2026-04-29",
+    "is_featured": false,
+    "is_trending": true,
+    "data_completeness": 74
+  }
 }

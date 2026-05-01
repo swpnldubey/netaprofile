@@ -3,7 +3,7 @@
   "slug": "manoj-jha",
   "name": "Manoj Kumar Jha",
   "name_hindi": "मनोज कुमार झा",
-  "photo_url": "",
+  "photo_url": "/politicians/photos/manoj-jha.jpg",
   "date_of_birth": "1967-08-05",
   "age": 58,
   "current_info": {
@@ -24,29 +24,65 @@
       "end_date": "Present",
       "duration_years": 22,
       "positions": [
-        { "title": "National Spokesperson, RJD", "start": "2010", "end": "Present" },
-        { "title": "Rajya Sabha MP (Bihar) — 1st term", "start": "2018", "end": "2024" },
-        { "title": "Rajya Sabha MP (Bihar) — 2nd term", "start": "2024", "end": "2030" }
+        {
+          "title": "National Spokesperson, RJD",
+          "start": "2010",
+          "end": "Present"
+        },
+        {
+          "title": "Rajya Sabha MP (Bihar) — 1st term",
+          "start": "2018",
+          "end": "2024"
+        },
+        {
+          "title": "Rajya Sabha MP (Bihar) — 2nd term",
+          "start": "2024",
+          "end": "2030"
+        }
       ],
       "notes": "Academic-turned-politician who is one of the most eloquent opposition voices in Rajya Sabha. Professor of Social Work at Delhi University. Known for impassioned speeches on social justice, caste discrimination, and constitutional values. Often quotes literature and poetry in parliamentary debates."
     }
   ],
-  "statements": { "has_contradictions": false, "before_switch": [], "after_switch": [] },
+  "statements": {
+    "has_contradictions": false,
+    "before_switch": [],
+    "after_switch": []
+  },
   "education": {
     "has_data": true,
     "institutions": [
-      { "name": "University of Delhi", "degree": "PhD — Social Work", "location": "New Delhi", "year_start": "1988", "year_end": "1995" }
+      {
+        "name": "University of Delhi",
+        "degree": "PhD — Social Work",
+        "location": "New Delhi",
+        "year_start": "1988",
+        "year_end": "1995"
+      }
     ]
   },
   "career_before_politics": {
     "has_data": true,
     "positions": [
-      { "company": "University of Delhi", "role": "Professor — Department of Social Work", "year_start": "1995", "year_end": "2018" }
+      {
+        "company": "University of Delhi",
+        "role": "Professor — Department of Social Work",
+        "year_start": "1995",
+        "year_end": "2018"
+      }
     ]
   },
   "committees": [],
-  "stats": { "total_party_switches": 0, "years_in_politics": 22, "total_positions_held": 2, "parliaments_served": 1 },
-  "social_media": { "twitter": "@manojkjhadu", "instagram": "", "facebook": "" },
+  "stats": {
+    "total_party_switches": 0,
+    "years_in_politics": 22,
+    "total_positions_held": 2,
+    "parliaments_served": 1
+  },
+  "social_media": {
+    "twitter": "@manojkjhadu",
+    "instagram": "",
+    "facebook": ""
+  },
   "external_sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Manoj_Kumar_Jha",
     "myneta": "",
@@ -54,5 +90,11 @@
     "sansad_profile": "https://sansad.in/rs/members/biographical-information?member=Manoj+Kumar+Jha",
     "news_articles": []
   },
-  "metadata": { "added_date": "2026-04-29", "last_updated": "2026-04-29", "is_featured": false, "is_trending": false, "data_completeness": 72 }
+  "metadata": {
+    "added_date": "2026-04-29",
+    "last_updated": "2026-04-29",
+    "is_featured": false,
+    "is_trending": false,
+    "data_completeness": 72
+  }
 }

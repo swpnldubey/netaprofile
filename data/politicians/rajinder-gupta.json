@@ -3,7 +3,7 @@
   "slug": "rajinder-gupta",
   "name": "Rajinder Gupta",
   "name_hindi": "राजिंदर गुप्ता",
-  "photo_url": "/images/politicians/rajinder-gupta.png",
+  "photo_url": "/politicians/photos/rajinder-gupta.jpg",
   "date_of_birth": "1959-01-02",
   "age": 67,
   "current_info": {
@@ -24,7 +24,11 @@
       "end_date": "2026-04-24",
       "duration_years": 4,
       "positions": [
-        { "title": "Rajya Sabha MP (Punjab)", "start": "2022", "end": "2026-04-24" }
+        {
+          "title": "Rajya Sabha MP (Punjab)",
+          "start": "2022",
+          "end": "2026-04-24"
+        }
       ],
       "notes": "Chairman Emeritus of Trident Group. Long association with industry bodies including CII."
     },
@@ -36,7 +40,11 @@
       "end_date": "Present",
       "duration_years": 0,
       "positions": [
-        { "title": "Rajya Sabha MP", "start": "2026-04-24", "end": "Present" }
+        {
+          "title": "Rajya Sabha MP",
+          "start": "2026-04-24",
+          "end": "Present"
+        }
       ],
       "notes": "Defected with Raghav Chadha group on April 24, 2026."
     }
@@ -71,31 +79,89 @@
   "education": {
     "has_data": true,
     "institutions": [
-      { "name": "Self-taught (left school at age 14)", "degree": "No formal schooling beyond age 14", "location": "Punjab", "year_start": "", "year_end": "1973" },
-      { "name": "Harvard Business School", "degree": "Advanced Management Program", "location": "Boston, USA", "year_start": "", "year_end": "" },
-      { "name": "University of Oxford", "degree": "Management Programme", "location": "Oxford, UK", "year_start": "", "year_end": "" },
-      { "name": "Indian School of Business (ISB)", "degree": "Entrepreneurial Development Program", "location": "Hyderabad", "year_start": "", "year_end": "" }
+      {
+        "name": "Self-taught (left school at age 14)",
+        "degree": "No formal schooling beyond age 14",
+        "location": "Punjab",
+        "year_start": "",
+        "year_end": "1973"
+      },
+      {
+        "name": "Harvard Business School",
+        "degree": "Advanced Management Program",
+        "location": "Boston, USA",
+        "year_start": "",
+        "year_end": ""
+      },
+      {
+        "name": "University of Oxford",
+        "degree": "Management Programme",
+        "location": "Oxford, UK",
+        "year_start": "",
+        "year_end": ""
+      },
+      {
+        "name": "Indian School of Business (ISB)",
+        "degree": "Entrepreneurial Development Program",
+        "location": "Hyderabad",
+        "year_start": "",
+        "year_end": ""
+      }
     ]
   },
   "career_before_politics": {
     "has_data": true,
     "positions": [
-      { "company": "Factory (Candles & Cement Pipes)", "role": "Daily Wage Labourer — ₹30/day", "year_start": "1974", "year_end": "1985" },
-      { "company": "Abhishek Industries", "role": "Founder — Fertiliser Manufacturing", "year_start": "1985", "year_end": "1991" },
-      { "company": "Trident Group", "role": "Founder & Chairman Emeritus (Global leader in home textiles, paper & chemicals; Padma Shri 2007)", "year_start": "1991", "year_end": "2022" }
+      {
+        "company": "Factory (Candles & Cement Pipes)",
+        "role": "Daily Wage Labourer — ₹30/day",
+        "year_start": "1974",
+        "year_end": "1985"
+      },
+      {
+        "company": "Abhishek Industries",
+        "role": "Founder — Fertiliser Manufacturing",
+        "year_start": "1985",
+        "year_end": "1991"
+      },
+      {
+        "company": "Trident Group",
+        "role": "Founder & Chairman Emeritus (Global leader in home textiles, paper & chemicals; Padma Shri 2007)",
+        "year_start": "1991",
+        "year_end": "2022"
+      }
     ]
   },
   "committees": [],
-  "stats": { "total_party_switches": 1, "years_in_politics": 4, "total_positions_held": 1, "parliaments_served": 1 },
-  "social_media": { "twitter": "@Rajinder_Gupta", "instagram": "@gupta_rajinder", "facebook": "" },
+  "stats": {
+    "total_party_switches": 1,
+    "years_in_politics": 4,
+    "total_positions_held": 1,
+    "parliaments_served": 1
+  },
+  "social_media": {
+    "twitter": "@Rajinder_Gupta",
+    "instagram": "@gupta_rajinder",
+    "facebook": ""
+  },
   "external_sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Rajinder_Gupta",
     "myneta": "",
     "prs_legislative": "",
     "sansad_profile": "",
     "news_articles": [
-      { "title": "Big blow to AAP: Raghav Chadha, 6 Rajya Sabha MPs merge with BJP", "url": "https://www.india.com/news/india/raghav-chadha-ashok-mittal-sandeep-pathak-harbhajan-singh-rajinder-gupta-vikram-sahney-swati-maliwal-rajya-sabha-mps-merge-with-bjp-aap-prime-minister-narendra-modi-amit-shah-8392306/", "date": "2026-04-24" }
+      {
+        "title": "Big blow to AAP: Raghav Chadha, 6 Rajya Sabha MPs merge with BJP",
+        "url": "https://www.india.com/news/india/raghav-chadha-ashok-mittal-sandeep-pathak-harbhajan-singh-rajinder-gupta-vikram-sahney-swati-maliwal-rajya-sabha-mps-merge-with-bjp-aap-prime-minister-narendra-modi-amit-shah-8392306/",
+        "date": "2026-04-24"
+      }
     ]
   },
-  "metadata": { "added_date": "2026-04-26", "last_updated": "2026-04-29", "is_featured": false, "is_trending": true, "data_completeness": 48 }
+  "metadata": {
+    "added_date": "2026-04-26",
+    "last_updated": "2026-04-29",
+    "is_featured": false,
+    "is_trending": true,
+    "data_completeness": 48
+  }
 }

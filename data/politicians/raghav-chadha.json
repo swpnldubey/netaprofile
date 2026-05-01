@@ -3,7 +3,7 @@
   "slug": "raghav-chadha",
   "name": "Raghav Chadha",
   "name_hindi": "राघव चड्ढा",
-  "photo_url": "/images/politicians/raghav-chada.jpg",
+  "photo_url": "/politicians/photos/raghav-chadha.jpg",
   "date_of_birth": "1988-11-11",
   "age": 37,
   "current_info": {
@@ -24,12 +24,36 @@
       "end_date": "2026-04-24",
       "duration_years": 14,
       "positions": [
-        { "title": "National Treasurer", "start": "2015", "end": "2022" },
-        { "title": "National Spokesperson", "start": "2015", "end": "2026-04-24" },
-        { "title": "MLA – Rajinder Nagar, Delhi", "start": "2020", "end": "2022" },
-        { "title": "Vice Chairman, Delhi Jal Board", "start": "2020", "end": "2022" },
-        { "title": "Rajya Sabha MP (Punjab)", "start": "2022-03-21", "end": "2026-04-24" },
-        { "title": "Leader, AAP in Rajya Sabha", "start": "2023", "end": "2026-04-02" }
+        {
+          "title": "National Treasurer",
+          "start": "2015",
+          "end": "2022"
+        },
+        {
+          "title": "National Spokesperson",
+          "start": "2015",
+          "end": "2026-04-24"
+        },
+        {
+          "title": "MLA – Rajinder Nagar, Delhi",
+          "start": "2020",
+          "end": "2022"
+        },
+        {
+          "title": "Vice Chairman, Delhi Jal Board",
+          "start": "2020",
+          "end": "2022"
+        },
+        {
+          "title": "Rajya Sabha MP (Punjab)",
+          "start": "2022-03-21",
+          "end": "2026-04-24"
+        },
+        {
+          "title": "Leader, AAP in Rajya Sabha",
+          "start": "2023",
+          "end": "2026-04-02"
+        }
       ],
       "notes": "Joined during India Against Corruption movement in 2011–12. Became youngest Rajya Sabha MP ever at age 33. Removed as RS deputy leader on April 2, 2026 — weeks before defection."
     },
@@ -41,7 +65,11 @@
       "end_date": "Present",
       "duration_years": 0,
       "positions": [
-        { "title": "Rajya Sabha MP", "start": "2026-04-24", "end": "Present" }
+        {
+          "title": "Rajya Sabha MP",
+          "start": "2026-04-24",
+          "end": "Present"
+        }
       ],
       "notes": "Defected with 6 other AAP Rajya Sabha MPs using constitutional merger provision (was 7 of 10 AAP RS MPs — crossed 2/3 threshold). Deleted all anti-BJP posts from X before announcing switch."
     }
@@ -126,16 +154,44 @@
   "education": {
     "has_data": true,
     "institutions": [
-      { "name": "Modern School", "degree": "Secondary Education", "location": "New Delhi", "year_start": "", "year_end": "" },
-      { "name": "University of Delhi", "degree": "Bachelor of Commerce (B.Com)", "location": "New Delhi", "year_start": "", "year_end": "2009" },
-      { "name": "Institute of Chartered Accountants of India (ICAI)", "degree": "Chartered Accountancy (CA)", "location": "India", "year_start": "", "year_end": "2011" }
+      {
+        "name": "Modern School",
+        "degree": "Secondary Education",
+        "location": "New Delhi",
+        "year_start": "",
+        "year_end": ""
+      },
+      {
+        "name": "University of Delhi",
+        "degree": "Bachelor of Commerce (B.Com)",
+        "location": "New Delhi",
+        "year_start": "",
+        "year_end": "2009"
+      },
+      {
+        "name": "Institute of Chartered Accountants of India (ICAI)",
+        "degree": "Chartered Accountancy (CA)",
+        "location": "India",
+        "year_start": "",
+        "year_end": "2011"
+      }
     ]
   },
   "career_before_politics": {
     "has_data": true,
     "positions": [
-      { "company": "Deloitte", "role": "Chartered Accountant", "year_start": "2011", "year_end": "2012" },
-      { "company": "Grant Thornton", "role": "Chartered Accountant", "year_start": "2011", "year_end": "2012" }
+      {
+        "company": "Deloitte",
+        "role": "Chartered Accountant",
+        "year_start": "2011",
+        "year_end": "2012"
+      },
+      {
+        "company": "Grant Thornton",
+        "role": "Chartered Accountant",
+        "year_start": "2011",
+        "year_end": "2012"
+      }
     ]
   },
   "committees": [],
@@ -156,9 +212,21 @@
     "prs_legislative": "https://prsindia.org/mptrack/rajya-sabha/raghav-chadha",
     "sansad_profile": "https://sansad.in/rs/members/biographical-information?member=Raghav+Chadha",
     "news_articles": [
-      { "title": "Body blow to AAP as Raghav Chadha, 6 others quit to join BJP", "url": "https://theprint.in/politics/body-blow-to-aap-as-raghav-chadha-6-others-quit-to-join-bjp-and-there-are-others/2913222/", "date": "2026-04-24" },
-      { "title": "From Critic to Convert: Raghav Chadha Leads Dramatic Rajya Sabha Defection To BJP", "url": "https://www.outlookindia.com/national/from-critic-to-convert-raghav-chadha-leads-dramatic-rajya-sabha-defection-to-bjp", "date": "2026-04-24" },
-      { "title": "Raghav Chadha has deleted all anti-BJP, anti-Modi posts: AAP hits back", "url": "https://www.tribuneindia.com/news/delhi/raghav-chadha-has-deleted-all-anti-bjp-anti-modi-posts-aap-hits-back-again/", "date": "2026-04-25" }
+      {
+        "title": "Body blow to AAP as Raghav Chadha, 6 others quit to join BJP",
+        "url": "https://theprint.in/politics/body-blow-to-aap-as-raghav-chadha-6-others-quit-to-join-bjp-and-there-are-others/2913222/",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "From Critic to Convert: Raghav Chadha Leads Dramatic Rajya Sabha Defection To BJP",
+        "url": "https://www.outlookindia.com/national/from-critic-to-convert-raghav-chadha-leads-dramatic-rajya-sabha-defection-to-bjp",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "Raghav Chadha has deleted all anti-BJP, anti-Modi posts: AAP hits back",
+        "url": "https://www.tribuneindia.com/news/delhi/raghav-chadha-has-deleted-all-anti-bjp-anti-modi-posts-aap-hits-back-again/",
+        "date": "2026-04-25"
+      }
     ]
   },
   "metadata": {
