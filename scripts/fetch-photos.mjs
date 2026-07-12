@@ -47,7 +47,7 @@ async function getWikipediaImage(wikipediaUrl) {
 
   try {
     const res = await fetch(apiUrl, {
-      headers: { "User-Agent": "NetaProfile/1.0 (swapnildubey285@gmail.com)" },
+      headers: { "User-Agent": "NetaProfile/1.0 (netaprofile@gmail.com)" },
     });
     const data = await res.json();
     const pages = data?.query?.pages;
@@ -63,7 +63,7 @@ async function getWikipediaImage(wikipediaUrl) {
 
 async function downloadImage(url, destPath) {
   const res = await fetch(url, {
-    headers: { "User-Agent": "NetaProfile/1.0 (swapnildubey285@gmail.com)" },
+    headers: { "User-Agent": "NetaProfile/1.0 (netaprofile@gmail.com)" },
   });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const buffer = Buffer.from(await res.arrayBuffer());
