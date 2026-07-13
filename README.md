@@ -2,7 +2,7 @@
 
 **Track every Indian politician's complete political journey — party switches, career history, and public statements, all sourced and timestamped.**
 
-**Status:** 🟢 Active (early stage)
+**Status:** 🔴 Abandoned — not maintained. Open-sourced as-is for anyone who wants the idea or the code.
 
 ## What it is
 
@@ -12,7 +12,13 @@ It's built to be independent and non-partisan. Every data point cites its source
 
 ## Why I built it
 
-Indian politics moves fast — MPs switch parties, change positions, and contradict their own earlier statements, often within months. That record is normally scattered across news archives and hard to reconstruct. NetaProfile is an attempt at a single, permanent, sourced record of who stood for what, and when.
+Indian politics moves fast — MPs switch parties, change positions, and contradict their own earlier statements, often within months. That record is normally scattered across news archives and hard to reconstruct. NetaProfile was an attempt at a single, permanent, sourced record of who stood for what, and when.
+
+The spark was the April 2026 defection of seven Aam Aadmi Party Rajya Sabha MPs to the BJP — Raghav Chadha in particular — and the idea of showing, side by side, what a politician said before a switch versus after.
+
+## Why it's abandoned
+
+I stopped roughly 48 hours after starting. It became clear that doing this properly — sourcing, verifying, and continuously maintaining data for hundreds (eventually thousands) of politicians — takes a huge, sustained amount of time and bandwidth that I'm not willing to commit to. I'd rather spend that energy building other things. So this is here as-is: a working proof of concept, not a maintained product. Fork it, take the idea, or build on it freely.
 
 ## Features
 
@@ -86,7 +92,7 @@ scripts/fetch-photos.mjs   One-time Wikipedia photo downloader
 
 ## Contributing
 
-Corrections, source improvements, and new politician profiles are welcome. Open an issue or a PR.
+This project is **not actively maintained**, so issues and PRs may go unanswered. You're very welcome to fork it and take it wherever you like.
 
 ## License
 
